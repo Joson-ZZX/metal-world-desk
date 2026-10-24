@@ -1,0 +1,5 @@
+{
+  "not_realtime": true,
+  "series": [],
+  "notice": "等待首次联网下载世行官方月度数据；不填充模拟价格。"
+}
