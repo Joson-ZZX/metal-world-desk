@@ -1,15 +1,107 @@
 {
-  "attempted_at": null,
+  "attempted_at": "2026-10-24T13:35:06+00:00",
   "timezone": "Asia/Singapore",
-  "new_records": 0,
-  "record_count": 12,
-  "sources": [],
+  "new_records": 65,
+  "record_count": 77,
+  "sources": [
+    {
+      "name": "国际能源署（IEA）报告",
+      "source": "IEA",
+      "state": "failed",
+      "count": 0,
+      "message": "403 Client Error: Forbidden for url: https://www.iea.org/reports"
+    },
+    {
+      "name": "国际能源署（IEA）新闻",
+      "source": "IEA",
+      "state": "failed",
+      "count": 0,
+      "message": "403 Client Error: Forbidden for url: https://www.iea.org/news/"
+    },
+    {
+      "name": "美国地调局（USGS）",
+      "source": "USGS",
+      "state": "failed",
+      "count": 0,
+      "message": "页面未识别出符合主题的条目（可能已改版）"
+    },
+    {
+      "name": "国际铜研究组（ICSG）",
+      "source": "ICSG",
+      "state": "failed",
+      "count": 0,
+      "message": "页面未识别出符合主题的条目（可能已改版）"
+    },
+    {
+      "name": "必和必拓（BHP）",
+      "source": "BHP",
+      "state": "failed",
+      "count": 0,
+      "message": "403 Client Error: Forbidden for url: https://www.bhp.com/investor-centre/market-announcements"
+    },
+    {
+      "name": "力拓（Rio Tinto）",
+      "source": "Rio Tinto",
+      "state": "failed",
+      "count": 0,
+      "message": "页面未识别出符合主题的条目（可能已改版）"
+    },
+    {
+      "name": "MIT News · 人工智能研究",
+      "source": "MIT News",
+      "state": "success",
+      "count": 23,
+      "message": "成功获取公开标题和来源链接"
+    },
+    {
+      "name": "MIT News · 机器人研究",
+      "source": "MIT News",
+      "state": "success",
+      "count": 36,
+      "message": "成功获取公开标题和来源链接"
+    },
+    {
+      "name": "SIA · 全球半导体产业动态",
+      "source": "SIA",
+      "state": "failed",
+      "count": 0,
+      "message": "403 Client Error: Forbidden for url: https://www.semiconductors.org/news-events/latest-news/"
+    },
+    {
+      "name": "ASML 半导体设备公告",
+      "source": "ASML",
+      "state": "failed",
+      "count": 0,
+      "message": "403 Client Error: Forbidden for url: https://investor.asml.com/news/press-releases"
+    },
+    {
+      "name": "台积电产业公告（TSMC）",
+      "source": "TSMC",
+      "state": "success",
+      "count": 9,
+      "message": "成功获取公开标题和来源链接"
+    },
+    {
+      "name": "MINING.COM行业媒体",
+      "source": "MINING.COM",
+      "state": "failed",
+      "count": 0,
+      "message": "403 Client Error: Forbidden for url: https://www.mining.com/feed/"
+    },
+    {
+      "name": "世界银行月度价格",
+      "source": "World Bank",
+      "state": "success",
+      "count": 108,
+      "message": "最新统计月份 2026-09"
+    }
+  ],
   "official_links": [
     {
       "name": "世界银行 · Pink Sheet（月度价格）",
       "url": "https://www.worldbank.org/en/research/commodity-markets",
       "frequency": "每月",
-      "detail": "历史月度价格，非即时行情"
+      "detail": "提供历史月度名义美元价格，非即时行情"
     },
     {
       "name": "IEA · 2026关键矿产展望",
@@ -33,31 +125,43 @@
       "name": "LME · 官方金属价格",
       "url": "https://www.lme.com/en/market-data/reports-and-data/lme-official-prices",
       "frequency": "依许可",
-      "detail": "访问与使用授权受限，本平台不展示未授权实时行情"
+      "detail": "受访问与使用授权限制；本平台不显示未授权实时价格"
     },
     {
       "name": "Rio Tinto · 公司公告",
       "url": "https://www.riotinto.com/en/news/releases",
       "frequency": "按公告",
-      "detail": "矿山项目与生产经营信息"
+      "detail": "矿山项目和生产经营信息"
     },
     {
-      "name": "SIA · 半导体产业",
-      "url": "https://www.semiconductors.org/news-events/latest-news/",
-      "frequency": "公告/统计",
-      "detail": "SIA半导体市场销售统计、制造能力和产业链新闻"
-    },
-    {
-      "name": "MIT News · 科技研究",
+      "name": "MIT News · AI与机器人",
       "url": "https://news.mit.edu/rss",
-      "frequency": "持续更新",
-      "detail": "MIT科技研究进展，覆盖AI、机器人、先进材料等"
+      "frequency": "持续发布",
+      "detail": "麻省理工学院科研动态，关注AI、机器人、先进材料和能源"
+    },
+    {
+      "name": "SIA · 半导体产业资讯",
+      "url": "https://www.semiconductors.org/news-events/latest-news/",
+      "frequency": "新闻稿/统计",
+      "detail": "半导体销售、晶圆制造和国际产业链变化"
     },
     {
       "name": "IEA · AI与能源",
-      "url": "https://www.iea.org/reports/powering-artificial-intelligence",
-      "frequency": "专题",
-      "detail": "数据中心、AI与电网供需"
+      "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai",
+      "frequency": "专题/年度",
+      "detail": "AI数据中心与能源供应、产业链的交互"
+    },
+    {
+      "name": "ASML · 半导体技术及企业公告",
+      "url": "https://investor.asml.com/news/press-releases",
+      "frequency": "按公告",
+      "detail": "半导体制造设备、先进光刻技术及产业合作"
+    },
+    {
+      "name": "TSMC · 官方新闻",
+      "url": "https://pr.tsmc.com/english/latest-news",
+      "frequency": "按公告",
+      "detail": "晶圆制造、先进制程及半导体产业投资"
     },
     {
       "name": "BHP · 交易所公告",
@@ -66,5 +170,5 @@
       "detail": "业绩、矿山项目及生产经营披露"
     }
   ],
-  "note": "2026-10-24已核实公开样本；首次联网执行自动更新后开始记录采集结果。"
+  "note": "本平台按源站发布时间展示；自动新增内容保留英文标题，中文解读需人工复核。价格为世界银行月度价格，非交易报价。"
 }
