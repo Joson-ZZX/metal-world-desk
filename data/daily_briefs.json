@@ -1,0 +1,391 @@
+{
+  "for_date": "2026-10-24",
+  "generated_at": "2026-10-24T11:38:40+00:00",
+  "selection_window_days": 21,
+  "new_today_count": 0,
+  "source_count": 7,
+  "llm_enabled": false,
+  "llm_success": 0,
+  "llm_failed": 0,
+  "topics": [
+    {
+      "id": "27ef70fa7112d669",
+      "record_id": "3860077791103589",
+      "title": "ICSG发布2026年10月铜市场月度新闻稿",
+      "category": "市场数据",
+      "source": "ICSG",
+      "source_title": "ICSG October 2026 Monthly Press Release",
+      "published_at": "2026-10-23",
+      "source_url": "https://icsg.org/press-releases/",
+      "generated_at": "2026-10-24T11:38:40+00:00",
+      "mode": "人工核对摘要的模板初稿",
+      "review_required": true,
+      "ready_to_publish": false,
+      "source_reviewed": true,
+      "pages": [
+        {
+          "page": 1,
+          "title": "ICSG发布2026年10月铜市场月度新闻稿",
+          "text": "全球矿产与金属产业最新动态｜ICSG · 2026-10-23",
+          "visual": "封面：主题主体图片＋短标题（素材须有使用授权）",
+          "source_url": "https://icsg.org/press-releases/"
+        },
+        {
+          "page": 2,
+          "title": "这次发布了什么？",
+          "text": "ICSG于2026-10-23发布有关“ICSG发布2026年10月铜市场月度新闻稿”的信息。 国际铜研究组官网列示了2026年10月23日的月度新闻稿。具体统计数值应以附件原文为准。",
+          "visual": "机构名称＋事件时间轴；不得把报告发布当成事件发生时间",
+          "source_url": "https://icsg.org/press-releases/"
+        },
+        {
+          "page": 3,
+          "title": "原始信息与证据",
+          "text": "国际铜研究组官网列示了2026年10月23日的月度新闻稿。具体统计数值应以附件原文为准。",
+          "visual": "将原文中的重要数据画成对比图；无可靠数字则改用事实关系图",
+          "source_url": "https://icsg.org/press-releases/"
+        },
+        {
+          "page": 4,
+          "title": "它与哪些产业有关？",
+          "text": "可从矿产与金属产业的技术发展、产业链变化或资源需求三个角度解释此事。此页属于编辑分析，发布前须用原文及第二资料源支持判断。",
+          "visual": "建议绘制产业链关系图或变化路径图，不虚构量化关系",
+          "source_url": "https://icsg.org/press-releases/"
+        },
+        {
+          "page": 5,
+          "title": "可以得出什么结论？",
+          "text": "已知事实以ICSG原始信息为准。建议区分“已发生事项”“机构预测”和“创作者判断”，最后用一个具体问题引导讨论。",
+          "visual": "结论大字卡＋原文链接/发布日期/统计口径",
+          "source_url": "https://icsg.org/press-releases/"
+        }
+      ],
+      "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
+      "age_days": 1
+    },
+    {
+      "id": "72d09354920c33f7",
+      "record_id": "1b4d852e1e8a9b51",
+      "title": "必和必拓发布2026年第三季度运营回顾",
+      "category": "海外矿业",
+      "source": "BHP",
+      "source_title": "BHP Operational review for the quarter ended 30 September 2026",
+      "published_at": "2026-10-20",
+      "source_url": "https://www.bhp.com/news/media-centre/releases/2026/10/bhp-operational-review-for-the-quarter-ended-30-september-2026",
+      "generated_at": "2026-10-24T11:38:40+00:00",
+      "mode": "人工核对摘要的模板初稿",
+      "review_required": true,
+      "ready_to_publish": false,
+      "source_reviewed": true,
+      "pages": [
+        {
+          "page": 1,
+          "title": "必和必拓发布2026年第三季度运营回顾",
+          "text": "全球AI/数据中心最新动态｜BHP · 2026-10-20",
+          "visual": "封面：主题主体图片＋短标题（素材须有使用授权）",
+          "source_url": "https://www.bhp.com/news/media-centre/releases/2026/10/bhp-operational-review-for-the-quarter-ended-30-september-2026"
+        },
+        {
+          "page": 2,
+          "title": "这次发布了什么？",
+          "text": "BHP于2026-10-20发布有关“必和必拓发布2026年第三季度运营回顾”的信息。 BHP指出，该季度铜产量受计划内品位下降、设备检修和临时干扰影响，持续推进铜与钾肥项目。",
+          "visual": "机构名称＋事件时间轴；不得把报告发布当成事件发生时间",
+          "source_url": "https://www.bhp.com/news/media-centre/releases/2026/10/bhp-operational-review-for-the-quarter-ended-30-september-2026"
+        },
+        {
+          "page": 3,
+          "title": "原始信息与证据",
+          "text": "BHP指出，该季度铜产量受计划内品位下降、设备检修和临时干扰影响，持续推进铜与钾肥项目。",
+          "visual": "将原文中的重要数据画成对比图；无可靠数字则改用事实关系图",
+          "source_url": "https://www.bhp.com/news/media-centre/releases/2026/10/bhp-operational-review-for-the-quarter-ended-30-september-2026"
+        },
+        {
+          "page": 4,
+          "title": "它与哪些产业有关？",
+          "text": "可从AI/数据中心的技术发展、产业链变化或资源需求三个角度解释此事。此页属于编辑分析，发布前须用原文及第二资料源支持判断。",
+          "visual": "建议绘制产业链关系图或变化路径图，不虚构量化关系",
+          "source_url": "https://www.bhp.com/news/media-centre/releases/2026/10/bhp-operational-review-for-the-quarter-ended-30-september-2026"
+        },
+        {
+          "page": 5,
+          "title": "可以得出什么结论？",
+          "text": "已知事实以BHP原始信息为准。建议区分“已发生事项”“机构预测”和“创作者判断”，最后用一个具体问题引导讨论。",
+          "visual": "结论大字卡＋原文链接/发布日期/统计口径",
+          "source_url": "https://www.bhp.com/news/media-centre/releases/2026/10/bhp-operational-review-for-the-quarter-ended-30-september-2026"
+        }
+      ],
+      "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
+      "age_days": 4
+    },
+    {
+      "id": "0f2adf5155d10214",
+      "record_id": "18f2a1a71eff5eca",
+      "title": "美国与日本合作布局芯片新工厂，发生了什么？",
+      "category": "全球科技产业",
+      "source": "SIA",
+      "source_title": "SIA Applauds GlobalFoundries Expansion Under U.S.-Japan Initiative",
+      "published_at": "2026-10-14",
+      "source_url": "https://www.semiconductors.org/sia-applauds-globalfoundries-expansion-under-u-s-japan-initiative/",
+      "generated_at": "2026-10-24T11:38:40+00:00",
+      "mode": "人工核对来源的示范初稿（发布前仍需审核）",
+      "review_required": true,
+      "ready_to_publish": false,
+      "source_reviewed": true,
+      "pages": [
+        {
+          "page": 1,
+          "title": "两座芯片工厂的新计划",
+          "text": "10月14日，美国半导体行业协会介绍了一项由美国和日本共同参与的芯片制造设施建设安排。GlobalFoundries计划在纽约州Malta运营两座新工厂。",
+          "visual": "世界地图上定位美国纽约州和日本，配晶圆厂示意图",
+          "source_url": "https://www.semiconductors.org/sia-applauds-globalfoundries-expansion-under-u-s-japan-initiative/"
+        },
+        {
+          "page": 2,
+          "title": "是谁在推进？",
+          "text": "根据SIA公告，两国拟共同持有相关设施，由GlobalFoundries负责运营。这是产业投资与制造能力布局，不是两座工厂已经投产。",
+          "visual": "美国、日本与GlobalFoundries三方关系简图",
+          "source_url": "https://www.semiconductors.org/sia-applauds-globalfoundries-expansion-under-u-s-japan-initiative/"
+        },
+        {
+          "page": 3,
+          "title": "项目规模有多大？",
+          "text": "SIA介绍，两处设施涉及合计最高约210亿美元的资本投资安排。该规模是计划投资信息，不能直接当作已完成支出。",
+          "visual": "数字卡：最高约210亿美元；小字标明‘计划投资’",
+          "source_url": "https://www.semiconductors.org/sia-applauds-globalfoundries-expansion-under-u-s-japan-initiative/"
+        },
+        {
+          "page": 4,
+          "title": "为什么值得关注？",
+          "text": "半导体制造能力不仅取决于芯片设计，还涉及制造设施、供应链与长期投资。该计划反映了部分国家对本土及伙伴国芯片制造能力的重视。",
+          "visual": "芯片制造产业链示意：设计—晶圆制造—封装测试",
+          "source_url": "https://www.semiconductors.org/sia-applauds-globalfoundries-expansion-under-u-s-japan-initiative/"
+        },
+        {
+          "page": 5,
+          "title": "应当怎样看待？",
+          "text": "关注后续开工、实际投资与产能建设进度，区分‘项目公布’和‘产能形成’。你觉得先进制造业竞争中，建设能力和投入速度哪个更关键？",
+          "visual": "时间线：公告—开工—建设—投产；标注后续节点需官方确认",
+          "source_url": "https://www.semiconductors.org/sia-applauds-globalfoundries-expansion-under-u-s-japan-initiative/"
+        }
+      ],
+      "editor_note": "已按来源整理成中文初稿；请在发布前再次检查事件数据、来源链接和配图授权。",
+      "age_days": 10
+    },
+    {
+      "id": "7509dae1dacdd3da",
+      "record_id": "98d637b3b9669d74",
+      "title": "AI数据中心越建越多，电网将面临什么挑战？",
+      "category": "金属与科技",
+      "source": "IEA",
+      "source_title": "Powering Artificial Intelligence: Strategies for integrating data centres into electricity systems",
+      "published_at": "2026-10-14",
+      "source_url": "https://www.iea.org/reports/powering-artificial-intelligence",
+      "generated_at": "2026-10-24T11:38:40+00:00",
+      "mode": "人工核对来源的示范初稿（发布前仍需审核）",
+      "review_required": true,
+      "ready_to_publish": false,
+      "source_reviewed": true,
+      "pages": [
+        {
+          "page": 1,
+          "title": "AI竞赛之外，还有电力竞赛",
+          "text": "国际能源署2026年10月发布《为人工智能供电》，讨论AI数据中心快速投资扩张，对电网、电价、环境和设备供应链形成的新压力。",
+          "visual": "数据中心与输配电网络的简洁关系图",
+          "source_url": "https://www.iea.org/reports/powering-artificial-intelligence"
+        },
+        {
+          "page": 2,
+          "title": "为什么不只是芯片问题？",
+          "text": "训练和运行AI系统需要服务器与稳定的电力供应。数据中心建设规模扩大后，电网接入、供电可靠性和电力基础设施都成为关键条件。",
+          "visual": "AI模型—算力设施—电力设施的三层流程图",
+          "source_url": "https://www.iea.org/reports/powering-artificial-intelligence"
+        },
+        {
+          "page": 3,
+          "title": "投资有多大？",
+          "text": "IEA报告指出，全球大型数据中心运营商2026年的资本支出计划超过7000亿美元，主要投向新数据中心等基础设施。这里是运营商资本支出，并非全部为电网投资。",
+          "visual": "7000亿美元以上醒目数字卡，注明‘大型数据中心运营商2026年资本支出计划’",
+          "source_url": "https://www.iea.org/reports/powering-artificial-intelligence"
+        },
+        {
+          "page": 4,
+          "title": "哪些环节会受影响？",
+          "text": "大型数据中心建设可能带动输配电设备、电力设施及相关材料需求。具体的铜等金属增量需要另引行业数据测算，不能由投资额直接换算。",
+          "visual": "电网—变压器—电缆—关键金属的关系图，不标未经验证的需求数值",
+          "source_url": "https://www.iea.org/reports/powering-artificial-intelligence"
+        },
+        {
+          "page": 5,
+          "title": "真正值得追踪的是什么？",
+          "text": "观察AI产业，不仅要看算力投资，还要看电力接入进度、基础设施约束与能源成本。新建项目宣布不等于全部建成投运。",
+          "visual": "三个关键词结论卡：算力／电力／基础设施",
+          "source_url": "https://www.iea.org/reports/powering-artificial-intelligence"
+        }
+      ],
+      "editor_note": "已按来源整理成中文初稿；请在发布前再次检查事件数据、来源链接和配图授权。",
+      "age_days": 10
+    },
+    {
+      "id": "a71d8150a1cbe258",
+      "record_id": "d4f9b8ad40ea1575",
+      "title": "ICSG发布2026—2027年铜市场预测",
+      "category": "市场数据",
+      "source": "ICSG",
+      "source_title": "ICSG Copper Market Forecast 2026–2027",
+      "published_at": "2026-10-14",
+      "source_url": "https://icsg.org/download/2026-10-14-press-release-icsg-copper-market-forecast-2026-2027/",
+      "generated_at": "2026-10-24T11:38:40+00:00",
+      "mode": "人工核对摘要的模板初稿",
+      "review_required": true,
+      "ready_to_publish": false,
+      "source_reviewed": true,
+      "pages": [
+        {
+          "page": 1,
+          "title": "ICSG发布2026—2027年铜市场预测",
+          "text": "全球矿产与金属产业最新动态｜ICSG · 2026-10-14",
+          "visual": "封面：主题主体图片＋短标题（素材须有使用授权）",
+          "source_url": "https://icsg.org/download/2026-10-14-press-release-icsg-copper-market-forecast-2026-2027/"
+        },
+        {
+          "page": 2,
+          "title": "这次发布了什么？",
+          "text": "ICSG于2026-10-14发布有关“ICSG发布2026—2027年铜市场预测”的信息。 国际铜研究组更新全球铜矿与精炼铜市场预测，涵盖产量、消费和供需平衡。引用具体盈余或缺口数字前请查阅原始PDF及统计口径。",
+          "visual": "机构名称＋事件时间轴；不得把报告发布当成事件发生时间",
+          "source_url": "https://icsg.org/download/2026-10-14-press-release-icsg-copper-market-forecast-2026-2027/"
+        },
+        {
+          "page": 3,
+          "title": "原始信息与证据",
+          "text": "国际铜研究组更新全球铜矿与精炼铜市场预测，涵盖产量、消费和供需平衡。引用具体盈余或缺口数字前请查阅原始PDF及统计口径。",
+          "visual": "将原文中的重要数据画成对比图；无可靠数字则改用事实关系图",
+          "source_url": "https://icsg.org/download/2026-10-14-press-release-icsg-copper-market-forecast-2026-2027/"
+        },
+        {
+          "page": 4,
+          "title": "它与哪些产业有关？",
+          "text": "可从矿产与金属产业的技术发展、产业链变化或资源需求三个角度解释此事。此页属于编辑分析，发布前须用原文及第二资料源支持判断。",
+          "visual": "建议绘制产业链关系图或变化路径图，不虚构量化关系",
+          "source_url": "https://icsg.org/download/2026-10-14-press-release-icsg-copper-market-forecast-2026-2027/"
+        },
+        {
+          "page": 5,
+          "title": "可以得出什么结论？",
+          "text": "已知事实以ICSG原始信息为准。建议区分“已发生事项”“机构预测”和“创作者判断”，最后用一个具体问题引导讨论。",
+          "visual": "结论大字卡＋原文链接/发布日期/统计口径",
+          "source_url": "https://icsg.org/download/2026-10-14-press-release-icsg-copper-market-forecast-2026-2027/"
+        }
+      ],
+      "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
+      "age_days": 10
+    },
+    {
+      "id": "13b0cc59c45f80c0",
+      "record_id": "01027b36b4a06b56",
+      "title": "无人机能在未知环境中安全避障吗？MIT公布新研究",
+      "category": "全球科技产业",
+      "source": "MIT News",
+      "source_title": "Planning system ensures a robot’s flight path will remain collision-free",
+      "published_at": "2026-10-07",
+      "source_url": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007",
+      "generated_at": "2026-10-24T11:38:40+00:00",
+      "mode": "人工核对来源的示范初稿（发布前仍需审核）",
+      "review_required": true,
+      "ready_to_publish": false,
+      "source_reviewed": true,
+      "pages": [
+        {
+          "page": 1,
+          "title": "没有地图，无人机怎么避障？",
+          "text": "MIT于10月7日介绍一种名为SANDO的无人机轨迹规划方法，目标是在存在未知且可能运动的障碍物时规划安全飞行路径。",
+          "visual": "无人机穿过障碍空间的概念图，明确为示意而非真实试验照片",
+          "source_url": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007"
+        },
+        {
+          "page": 2,
+          "title": "传统方法难在哪里？",
+          "text": "飞行路径规划不仅要考虑障碍物现在在哪里，还要估计它们之后可能移动到哪里。未知动态环境使安全路径规划更复杂。",
+          "visual": "静态障碍与动态障碍的两栏对比",
+          "source_url": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007"
+        },
+        {
+          "page": 3,
+          "title": "新方法解决什么问题？",
+          "text": "SANDO依据动态障碍物可能的运动范围建立随时间变化的安全通道，并在其中进行轨迹优化。研究提出了相应的数学安全保证。",
+          "visual": "障碍物活动范围和动态安全通道的简化示意图",
+          "source_url": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007"
+        },
+        {
+          "page": 4,
+          "title": "验证做到哪一步？",
+          "text": "MIT报道称，研究团队开展了仿真验证，并利用真实无人机进行了12次试飞。研究成果不等同于已经适用于所有复杂工业场景。",
+          "visual": "证据卡：仿真＋12次无人机试飞；不夸大为商业普及",
+          "source_url": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007"
+        },
+        {
+          "page": 5,
+          "title": "哪些场景可能受益？",
+          "text": "应急救援、未知地下通道探查等可能需要自主避障能力。其实际适用性仍取决于环境条件、传感器和工程验证。",
+          "visual": "救援、地下探查应用示意＋‘尚需场景验证’注释",
+          "source_url": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007"
+        }
+      ],
+      "editor_note": "已按来源整理成中文初稿；请在发布前再次检查事件数据、来源链接和配图授权。",
+      "age_days": 17
+    },
+    {
+      "id": "748003b1b836bc75",
+      "record_id": "88c8ff5e46ae221a",
+      "title": "SIA：2026年8月全球半导体月销售额1597亿美元",
+      "category": "全球科技产业",
+      "source": "SIA",
+      "source_title": "Year-to-Date Global Semiconductor Sales Top $1 Trillion Through August",
+      "published_at": "2026-10-05",
+      "source_url": "https://www.semiconductors.org/year-to-date-global-semiconductor-sales-top-1-trillion-through-august/",
+      "generated_at": "2026-10-24T11:38:40+00:00",
+      "mode": "人工核对摘要的模板初稿",
+      "review_required": true,
+      "ready_to_publish": false,
+      "source_reviewed": true,
+      "pages": [
+        {
+          "page": 1,
+          "title": "SIA：2026年8月全球半导体月销售额1597亿美元",
+          "text": "全球科技产业最新动态｜SIA · 2026-10-05",
+          "visual": "封面：主题主体图片＋短标题（素材须有使用授权）",
+          "source_url": "https://www.semiconductors.org/year-to-date-global-semiconductor-sales-top-1-trillion-through-august/"
+        },
+        {
+          "page": 2,
+          "title": "这次发布了什么？",
+          "text": "SIA于2026-10-05发布有关“SIA：2026年8月全球半导体月销售额1597亿美元”的信息。 美国半导体行业协会10月5日援引WSTS统计称，2026年8月全球半导体销售额为1597亿美元，同比增长144.3%。该月度统计采用三个月移动平均口径；全年累计已超过1万亿美元。",
+          "visual": "机构名称＋事件时间轴；不得把报告发布当成事件发生时间",
+          "source_url": "https://www.semiconductors.org/year-to-date-global-semiconductor-sales-top-1-trillion-through-august/"
+        },
+        {
+          "page": 3,
+          "title": "原始信息与证据",
+          "text": "美国半导体行业协会10月5日援引WSTS统计称，2026年8月全球半导体销售额为1597亿美元，同比增长144.3%。该月度统计采用三个月移动平均口径；全年累计已超过1万亿美元。",
+          "visual": "将原文中的重要数据画成对比图；无可靠数字则改用事实关系图",
+          "source_url": "https://www.semiconductors.org/year-to-date-global-semiconductor-sales-top-1-trillion-through-august/"
+        },
+        {
+          "page": 4,
+          "title": "它与哪些产业有关？",
+          "text": "可从科技产业的技术发展、产业链变化或资源需求三个角度解释此事。此页属于编辑分析，发布前须用原文及第二资料源支持判断。",
+          "visual": "建议绘制产业链关系图或变化路径图，不虚构量化关系",
+          "source_url": "https://www.semiconductors.org/year-to-date-global-semiconductor-sales-top-1-trillion-through-august/"
+        },
+        {
+          "page": 5,
+          "title": "可以得出什么结论？",
+          "text": "已知事实以SIA原始信息为准。建议区分“已发生事项”“机构预测”和“创作者判断”，最后用一个具体问题引导讨论。",
+          "visual": "结论大字卡＋原文链接/发布日期/统计口径",
+          "source_url": "https://www.semiconductors.org/year-to-date-global-semiconductor-sales-top-1-trillion-through-august/"
+        }
+      ],
+      "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
+      "age_days": 19
+    }
+  ],
+  "notice": "每日自动刷新候选。无新信息时显示近21日资料，不标为今日新发；文案全部需要人工核实后才能发布。"
+}
