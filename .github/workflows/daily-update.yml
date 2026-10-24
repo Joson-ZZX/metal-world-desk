@@ -1,0 +1,59 @@
+name: Metal World Daily Update
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    # UTC 23:20 = Singapore/Beijing 07:20 the next day.
+    # Scheduled GitHub Actions are best effort, not an SLA.
+    - cron: '20 23 * * *'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: metal-world-pages
+  cancel-in-progress: false
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Run offline regression tests
+        run: |
+          python scripts/test_pipeline.py
+          python scripts/test_daily.py
+      - name: Pull public sources and refresh five-page drafts
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
+        run: python scripts/update.py
+      - name: Validate bundled data
+        run: python scripts/validate.py
+      - name: Commit refreshed public records
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/records.json data/prices.json data/status.json data/daily_briefs.json data/dashboard-data.js
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh global intelligence data'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v4
