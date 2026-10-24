@@ -1,0 +1,70 @@
+{
+  "attempted_at": null,
+  "timezone": "Asia/Singapore",
+  "new_records": 0,
+  "record_count": 12,
+  "sources": [],
+  "official_links": [
+    {
+      "name": "世界银行 · Pink Sheet（月度价格）",
+      "url": "https://www.worldbank.org/en/research/commodity-markets",
+      "frequency": "每月",
+      "detail": "历史月度价格，非即时行情"
+    },
+    {
+      "name": "IEA · 2026关键矿产展望",
+      "url": "https://www.iea.org/reports/global-critical-minerals-outlook-2026",
+      "frequency": "年度/专题",
+      "detail": "全球关键矿产供需、投资、供应链"
+    },
+    {
+      "name": "USGS · 矿产统计",
+      "url": "https://www.usgs.gov/centers/national-minerals-information-center/mineral-commodity-summaries",
+      "frequency": "年度",
+      "detail": "全球主要矿种产量、资源储量"
+    },
+    {
+      "name": "ICSG · 铜业统计",
+      "url": "https://icsg.org/selected-copper-statistics/",
+      "frequency": "月度/预测",
+      "detail": "铜矿及精炼铜供需和预测"
+    },
+    {
+      "name": "LME · 官方金属价格",
+      "url": "https://www.lme.com/en/market-data/reports-and-data/lme-official-prices",
+      "frequency": "依许可",
+      "detail": "访问与使用授权受限，本平台不展示未授权实时行情"
+    },
+    {
+      "name": "Rio Tinto · 公司公告",
+      "url": "https://www.riotinto.com/en/news/releases",
+      "frequency": "按公告",
+      "detail": "矿山项目与生产经营信息"
+    },
+    {
+      "name": "SIA · 半导体产业",
+      "url": "https://www.semiconductors.org/news-events/latest-news/",
+      "frequency": "公告/统计",
+      "detail": "SIA半导体市场销售统计、制造能力和产业链新闻"
+    },
+    {
+      "name": "MIT News · 科技研究",
+      "url": "https://news.mit.edu/rss",
+      "frequency": "持续更新",
+      "detail": "MIT科技研究进展，覆盖AI、机器人、先进材料等"
+    },
+    {
+      "name": "IEA · AI与能源",
+      "url": "https://www.iea.org/reports/powering-artificial-intelligence",
+      "frequency": "专题",
+      "detail": "数据中心、AI与电网供需"
+    },
+    {
+      "name": "BHP · 交易所公告",
+      "url": "https://www.bhp.com/investor-centre/market-announcements",
+      "frequency": "按公告",
+      "detail": "业绩、矿山项目及生产经营披露"
+    }
+  ],
+  "note": "2026-10-24已核实公开样本；首次联网执行自动更新后开始记录采集结果。"
+}
