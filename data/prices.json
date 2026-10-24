@@ -2,7 +2,7 @@
   "frequency": "月度",
   "source_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
   "source_name": "世界银行 Pink Sheet",
-  "retrieved_at": "2026-10-24T13:35:06+00:00",
+  "retrieved_at": "2026-10-24T23:36:50+00:00",
   "last_period": "2026-09",
   "not_realtime": true,
   "series": [
