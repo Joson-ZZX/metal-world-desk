@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-10-24T23:36:50+00:00",
+  "attempted_at": "2026-10-25T02:38:24+00:00",
   "timezone": "Asia/Singapore",
-  "new_records": 0,
-  "record_count": 77,
+  "new_records": 32,
+  "record_count": 109,
   "sources": [
     {
       "name": "国际能源署（IEA）报告",
@@ -21,9 +21,9 @@
     {
       "name": "美国地调局（USGS）",
       "source": "USGS",
-      "state": "failed",
-      "count": 0,
-      "message": "页面未识别出符合主题的条目（可能已改版）"
+      "state": "success",
+      "count": 6,
+      "message": "成功获取公开标题和来源链接"
     },
     {
       "name": "国际铜研究组（ICSG）",
@@ -58,6 +58,20 @@
       "source": "MIT News",
       "state": "success",
       "count": 36,
+      "message": "成功获取公开标题和来源链接"
+    },
+    {
+      "name": "MIT News · 新材料与工程",
+      "source": "MIT News",
+      "state": "success",
+      "count": 17,
+      "message": "成功获取公开标题和来源链接"
+    },
+    {
+      "name": "MIT News · 新能源与储能",
+      "source": "MIT News",
+      "state": "success",
+      "count": 15,
       "message": "成功获取公开标题和来源链接"
     },
     {
