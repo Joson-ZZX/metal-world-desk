@@ -20,6 +20,38 @@ def concise(x,max_len=180):
     s=re.sub(r'\s+',' ',str(x or '')).strip()
     return s[:max_len]+'…' if len(s)>max_len else s
 
+INDUSTRY_RE = re.compile(
+    r'\b(copper|lithium|nickel|cobalt|metal|metallurg|mineral|mining|rare earth|alloy|semiconductor|wafer|'
+    r'chip|microchip|foundr|photonic|robot|autonomous vehicle|industrial automat|battery|electrolyte|'
+    r'solid.state|material|crystal|superconductor|power grid|electric grid|data cent|'
+    r'energy storage|renewable energy|solar cell|solar panel|wind turbine|hydrogen production|'
+    r'manufactur|factory|fab|electrification|photovoltaic|geotherm)\b',re.I)
+OFF_TOPIC_RE = re.compile(
+    r'\b(democracy|election|politic|prenatal|diagnos|hospital|patient|medical imaging|'
+    r'disease|drug|therap|human mind|brain|cell communicate|civic|'
+    r'commencement|fellowship|faculty award|student award|scholarship)\b',re.I)
+
+def editorial_score(r):
+    """Rank suitability for the account's industrial technology and metals remit.
+
+    A feed mentioning AI is not automatically an industrial technology story.
+    This score ranks candidate topics only; it never asserts article facts.
+    """
+    headline=str(r.get('title_zh') or r.get('title') or '')
+    excerpt=str(r.get('original_excerpt') or '')
+    if r.get('source')=='MIT News':
+        if not INDUSTRY_RE.search(headline): return -1
+        if OFF_TOPIC_RE.search(headline) and not re.search(r'\b(semiconductor|chip|robot|material|battery)\b',headline,re.I):
+            return -1
+    score=0
+    if INDUSTRY_RE.search(headline): score+=6
+    if INDUSTRY_RE.search(excerpt): score+=1
+    if r.get('source') in ('TSMC','ASML','SIA','BHP','Rio Tinto','ICSG','USGS','IEA'): score+=3
+    if r.get('category') in ('海外矿业','市场数据','金属与科技'):score+=2
+    if has_reviewed(r):score+=5
+    if OFF_TOPIC_RE.search(headline):score-=8
+    return score
+
 def sort_recent(records,dt):
     today=dt.astimezone(ZH_TZ).date()
     filtered=[]
@@ -28,19 +60,24 @@ def sort_recent(records,dt):
         date=r.get('published_at','')
         try:days=(today-datetime.strptime(date,'%Y-%m-%d').date()).days
         except (ValueError,TypeError):continue
-        if -1<=days<=21:filtered.append((days,r))
-    filtered.sort(key=lambda pair:(pair[0],-int(has_reviewed(pair[1])),pair[1].get('source','')))
-    # Preserve category diversity: do not let all candidates become mining articles.
+        if not (-1<=days<=21):continue
+        score=editorial_score(r)
+        if score<0:continue
+        filtered.append((days,r))
+    # Prefer verifiable sector-relevant topics over unrelated newer academic news.
+    filtered.sort(key=lambda pair:(-editorial_score(pair[1]),pair[0],-int(has_reviewed(pair[1])),pair[1].get('source','')))
     chosen=[];used=set()
     for category,limit in [('全球科技产业',3),('金属与科技',2),('市场数据',2),('海外矿业',2)]:
+        n=0
         for days,r in filtered:
             if r['id'] in used or r.get('category')!=category:continue
-            chosen.append((days,r));used.add(r['id'])
-            if sum(x.get('category')==category for _,x in chosen)>=limit:break
+            chosen.append((days,r));used.add(r['id']);n+=1
+            if n>=limit:break
     for days,r in filtered:
         if len(chosen)>=MAX_TOPICS:break
         if r['id'] not in used:chosen.append((days,r));used.add(r['id'])
-    return sorted(chosen,key=lambda v:(v[0],-int(has_reviewed(v[1]))))[:MAX_TOPICS]
+    # Recent date comes first within equal editorial relevance.
+    return sorted(chosen,key=lambda v:(-editorial_score(v[1]),v[0]))[:MAX_TOPICS]
 
 def kind(r):
     tech=(r.get('tech') or [])
