@@ -23,12 +23,14 @@ S.headers.update({'User-Agent':USER_AGENT, 'Accept-Language':'en-US,en;q=0.9'})
 SOURCES = [
     {'id':'iea-reports','name':'国际能源署（IEA）报告','institution':'IEA','url':'https://www.iea.org/reports', 'host':'iea.org','path':'/reports/', 'tier':'一手机构', 'type':'html'},
     {'id':'iea-news','name':'国际能源署（IEA）新闻','institution':'IEA','url':'https://www.iea.org/news/', 'host':'iea.org','path':'/news/', 'tier':'一手机构', 'type':'html'},
-    {'id':'usgs-news','name':'美国地调局（USGS）','institution':'USGS','url':'https://www.usgs.gov/news', 'host':'usgs.gov','path':'/news/', 'tier':'一手机构', 'type':'html'},
+    {'id':'usgs-news','name':'美国地调局（USGS）','institution':'USGS','url':'https://www.usgs.gov/programs/mineral-resources-program/news', 'host':'usgs.gov','path':'/news/', 'tier':'一手机构', 'type':'html'},
     {'id':'icsg','name':'国际铜研究组（ICSG）','institution':'ICSG','url':'https://icsg.org/press-releases/','host':'icsg.org','path':'/download/','tier':'一手机构','type':'html'},
     {'id':'bhp','name':'必和必拓（BHP）','institution':'BHP','url':'https://www.bhp.com/investor-centre/market-announcements','host':'bhp.com','path':'/news/', 'tier':'企业公告','type':'html'},
     {'id':'rio','name':'力拓（Rio Tinto）','institution':'Rio Tinto','url':'https://www.riotinto.com/en/news/releases','host':'riotinto.com','path':'/en/news/releases/', 'tier':'企业公告','type':'html'},
     {'id':'mit-ai','name':'MIT News · 人工智能研究','institution':'MIT News','url':'https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml','host':'news.mit.edu','path':'/','tier':'科研机构','type':'rss','focus':'tech'},
     {'id':'mit-robotics','name':'MIT News · 机器人研究','institution':'MIT News','url':'https://news.mit.edu/topic/mitrobotics-rss.xml','host':'news.mit.edu','path':'/','tier':'科研机构','type':'rss','focus':'tech'},
+    {'id':'mit-materials','name':'MIT News · 新材料与工程','institution':'MIT News','url':'https://news.mit.edu/topic/mitmaterialsscienceandengineering-rss.xml','host':'news.mit.edu','path':'/','tier':'科研机构','type':'rss','focus':'tech'},
+    {'id':'mit-renewables','name':'MIT News · 新能源与储能','institution':'MIT News','url':'https://news.mit.edu/topic/mitrenewableenergy-rss.xml','host':'news.mit.edu','path':'/','tier':'科研机构','type':'rss','focus':'tech'},
     {'id':'sia','name':'SIA · 全球半导体产业动态','institution':'SIA','url':'https://www.semiconductors.org/news-events/latest-news/','host':'semiconductors.org','path':'/','tier':'产业协会','type':'html','focus':'tech'},
     {'id':'asml','name':'ASML 半导体设备公告','institution':'ASML','url':'https://investor.asml.com/news/press-releases','host':'investor.asml.com','path':'/news-releases/news-release-details/','tier':'企业公告','type':'html','focus':'tech','always_relevant':True},
     {'id':'tsmc','name':'台积电产业公告（TSMC）','institution':'TSMC','url':'https://pr.tsmc.com/english/latest-news','host':'pr.tsmc.com','path':'/english/news/','tier':'企业公告','type':'html','focus':'tech','always_relevant':True},
@@ -57,7 +59,7 @@ TECH = [
  ('先进制造',r'additive manufactur|3d print|advanced manufactur|industrial automation|先进制造|增材制造'),
  ('新材料',r'advanced material|new material|materials science|composite|superconduct|新材料|超导')]
 MINING_KEYWORD = re.compile(r'copper|alumin|bauxite|lithium|nickel|cobalt|rare earth|critical mineral|mining|mineral|smelt|refin|zinc|\btin\b|gallium|germanium|tungsten|electric grid|battery|batteries|\bmetal|\bore\b|iron ore|molybdenum|exploration|supply chain',re.I)
-TECH_KEYWORD = re.compile(r'artificial intelligence|\bAI\b|machine learning|data cent|semiconductor|chip|foundr|robot|automation|battery|batteries|electric vehicle|energy storage|advanced manufactur|materials science|additive manufactur|quantum comput|solar power|photovoltaic|computing infrastructure|power grid',re.I)
+TECH_KEYWORD = re.compile(r'artificial intelligence|\bAI\b|machine learning|data cent|semiconductor|chip|foundr|robot|automation|battery|batteries|electric vehicle|energy storage|advanced manufactur|materials science|additive manufactur|quantum comput|solar power|photovoltaic|computing infrastructure|power grid|crystal|superconduct|electrolyt|alloy|semiconduct|microchip|power system',re.I)
 KEYWORD = re.compile(MINING_KEYWORD.pattern+'|'+TECH_KEYWORD.pattern,re.I)
 
 
@@ -105,7 +107,9 @@ def classify(headline, snippet, origin, focus=''):
     txt=(headline+' '+(snippet or ''))[:900]
     metals=[name for name,pattern in METALS if re.search(pattern,txt,re.I)]
     technology=[name for name,pattern in TECH if re.search(pattern,txt,re.I)]
-    if focus=='tech' or origin in ('MIT News','SIA','ASML','TSMC'):
+    if origin in ('BHP','Rio Tinto','USGS','MINING.COM'):
+        cat='海外矿业'
+    elif focus=='tech' or origin in ('MIT News','SIA','ASML','TSMC'):
         cat='全球科技产业'
     elif origin in ('ICSG','World Bank') or (metals and re.search(r'price|supply|demand|forecast|market|statistic|commodit',txt,re.I)):
         cat='市场数据'
