@@ -22,7 +22,7 @@ def concise(x,max_len=180):
 
 INDUSTRY_RE = re.compile(
     r'\b(copper|lithium|nickel|cobalt|metal|metallurg|mineral|mining|rare earth|alloy|semiconductor|wafer|'
-    r'chip|microchip|foundr|photonic|robot|autonomous vehicle|industrial automat|battery|electrolyte|'
+    r'chip|microchip|foundr|photonic|robot\w*|autonomous vehicle|industrial automat|batter(?:y|ies)|electrolyte|'
     r'solid.state|material|crystal|superconductor|power grid|electric grid|data cent|'
     r'energy storage|renewable energy|solar cell|solar panel|wind turbine|hydrogen production|'
     r'manufactur|factory|fab|electrification|photovoltaic|geotherm)\b',re.I)
