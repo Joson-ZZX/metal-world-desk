@@ -1,15 +1,15 @@
 {
-  "for_date": "2026-10-26",
-  "generated_at": "2026-10-25T23:37:14+00:00",
+  "for_date": "2026-10-27",
+  "generated_at": "2026-10-26T23:41:16+00:00",
   "selection_window_days": 21,
   "new_today_count": 0,
-  "source_count": 9,
+  "source_count": 8,
   "llm_enabled": false,
   "llm_success": 0,
   "llm_failed": 0,
   "topics": [
     {
-      "id": "550289036ccafeec",
+      "id": "8f5a91e6f5ed1ede",
       "record_id": "3860077791103589",
       "title": "ICSG发布2026年10月铜市场月度新闻稿",
       "category": "市场数据",
@@ -17,7 +17,7 @@
       "source_title": "ICSG October 2026 Monthly Press Release",
       "published_at": "2026-10-23",
       "source_url": "https://icsg.org/press-releases/",
-      "generated_at": "2026-10-25T23:37:14+00:00",
+      "generated_at": "2026-10-26T23:41:16+00:00",
       "mode": "人工核对摘要的模板初稿",
       "review_required": true,
       "ready_to_publish": false,
@@ -60,10 +60,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 3
+      "age_days": 4
     },
     {
-      "id": "e7ec42722cf4ed78",
+      "id": "72c9bc7204eac419",
       "record_id": "1b4d852e1e8a9b51",
       "title": "必和必拓发布2026年第三季度运营回顾",
       "category": "海外矿业",
@@ -71,7 +71,7 @@
       "source_title": "BHP Operational review for the quarter ended 30 September 2026",
       "published_at": "2026-10-20",
       "source_url": "https://www.bhp.com/news/media-centre/releases/2026/10/bhp-operational-review-for-the-quarter-ended-30-september-2026",
-      "generated_at": "2026-10-25T23:37:14+00:00",
+      "generated_at": "2026-10-26T23:41:16+00:00",
       "mode": "人工核对摘要的模板初稿",
       "review_required": true,
       "ready_to_publish": false,
@@ -114,10 +114,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 6
+      "age_days": 7
     },
     {
-      "id": "233e83ecfb95edb5",
+      "id": "becff09419175725",
       "record_id": "98d637b3b9669d74",
       "title": "AI数据中心越建越多，电网将面临什么挑战？",
       "category": "金属与科技",
@@ -125,7 +125,7 @@
       "source_title": "Powering Artificial Intelligence: Strategies for integrating data centres into electricity systems",
       "published_at": "2026-10-14",
       "source_url": "https://www.iea.org/reports/powering-artificial-intelligence",
-      "generated_at": "2026-10-25T23:37:14+00:00",
+      "generated_at": "2026-10-26T23:41:16+00:00",
       "mode": "人工核对来源的示范初稿（发布前仍需审核）",
       "review_required": true,
       "ready_to_publish": false,
@@ -168,10 +168,10 @@
         }
       ],
       "editor_note": "已按来源整理成中文初稿；请在发布前再次检查事件数据、来源链接和配图授权。",
-      "age_days": 12
+      "age_days": 13
     },
     {
-      "id": "846a7cada62029a0",
+      "id": "04d46b829168052f",
       "record_id": "d4f9b8ad40ea1575",
       "title": "ICSG发布2026—2027年铜市场预测",
       "category": "市场数据",
@@ -179,7 +179,7 @@
       "source_title": "ICSG Copper Market Forecast 2026–2027",
       "published_at": "2026-10-14",
       "source_url": "https://icsg.org/download/2026-10-14-press-release-icsg-copper-market-forecast-2026-2027/",
-      "generated_at": "2026-10-25T23:37:14+00:00",
+      "generated_at": "2026-10-26T23:41:16+00:00",
       "mode": "人工核对摘要的模板初稿",
       "review_required": true,
       "ready_to_publish": false,
@@ -222,10 +222,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 12
+      "age_days": 13
     },
     {
-      "id": "2c1f6b128f78a4a6",
+      "id": "f5bec77947c461fb",
       "record_id": "18f2a1a71eff5eca",
       "title": "美国与日本合作布局芯片新工厂，发生了什么？",
       "category": "全球科技产业",
@@ -233,7 +233,7 @@
       "source_title": "SIA Applauds GlobalFoundries Expansion Under U.S.-Japan Initiative",
       "published_at": "2026-10-14",
       "source_url": "https://www.semiconductors.org/sia-applauds-globalfoundries-expansion-under-u-s-japan-initiative/",
-      "generated_at": "2026-10-25T23:37:14+00:00",
+      "generated_at": "2026-10-26T23:41:16+00:00",
       "mode": "人工核对来源的示范初稿（发布前仍需审核）",
       "review_required": true,
       "ready_to_publish": false,
@@ -276,64 +276,10 @@
         }
       ],
       "editor_note": "已按来源整理成中文初稿；请在发布前再次检查事件数据、来源链接和配图授权。",
-      "age_days": 12
+      "age_days": 13
     },
     {
-      "id": "c5b8400829cc5aec",
-      "record_id": "88c8ff5e46ae221a",
-      "title": "SIA：2026年8月全球半导体月销售额1597亿美元",
-      "category": "全球科技产业",
-      "source": "SIA",
-      "source_title": "Year-to-Date Global Semiconductor Sales Top $1 Trillion Through August",
-      "published_at": "2026-10-05",
-      "source_url": "https://www.semiconductors.org/year-to-date-global-semiconductor-sales-top-1-trillion-through-august/",
-      "generated_at": "2026-10-25T23:37:14+00:00",
-      "mode": "人工核对摘要的模板初稿",
-      "review_required": true,
-      "ready_to_publish": false,
-      "source_reviewed": true,
-      "pages": [
-        {
-          "page": 1,
-          "title": "SIA：2026年8月全球半导体月销售额1597亿美元",
-          "text": "全球科技产业最新动态｜SIA · 2026-10-05",
-          "visual": "封面：主题主体图片＋短标题（素材须有使用授权）",
-          "source_url": "https://www.semiconductors.org/year-to-date-global-semiconductor-sales-top-1-trillion-through-august/"
-        },
-        {
-          "page": 2,
-          "title": "这次发布了什么？",
-          "text": "SIA于2026-10-05发布有关“SIA：2026年8月全球半导体月销售额1597亿美元”的信息。 美国半导体行业协会10月5日援引WSTS统计称，2026年8月全球半导体销售额为1597亿美元，同比增长144.3%。该月度统计采用三个月移动平均口径；全年累计已超过1万亿美元。",
-          "visual": "机构名称＋事件时间轴；不得把报告发布当成事件发生时间",
-          "source_url": "https://www.semiconductors.org/year-to-date-global-semiconductor-sales-top-1-trillion-through-august/"
-        },
-        {
-          "page": 3,
-          "title": "原始信息与证据",
-          "text": "美国半导体行业协会10月5日援引WSTS统计称，2026年8月全球半导体销售额为1597亿美元，同比增长144.3%。该月度统计采用三个月移动平均口径；全年累计已超过1万亿美元。",
-          "visual": "将原文中的重要数据画成对比图；无可靠数字则改用事实关系图",
-          "source_url": "https://www.semiconductors.org/year-to-date-global-semiconductor-sales-top-1-trillion-through-august/"
-        },
-        {
-          "page": 4,
-          "title": "它与哪些产业有关？",
-          "text": "可从科技产业的技术发展、产业链变化或资源需求三个角度解释此事。此页属于编辑分析，发布前须用原文及第二资料源支持判断。",
-          "visual": "建议绘制产业链关系图或变化路径图，不虚构量化关系",
-          "source_url": "https://www.semiconductors.org/year-to-date-global-semiconductor-sales-top-1-trillion-through-august/"
-        },
-        {
-          "page": 5,
-          "title": "可以得出什么结论？",
-          "text": "已知事实以SIA原始信息为准。建议区分“已发生事项”“机构预测”和“创作者判断”，最后用一个具体问题引导讨论。",
-          "visual": "结论大字卡＋原文链接/发布日期/统计口径",
-          "source_url": "https://www.semiconductors.org/year-to-date-global-semiconductor-sales-top-1-trillion-through-august/"
-        }
-      ],
-      "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 21
-    },
-    {
-      "id": "7044cbf4393c04a2",
+      "id": "9da8c7c2e1647b1d",
       "record_id": "9692486eeb77934b",
       "title": "【译题待核】Giving AI a “crystal clear” view of the materials world",
       "category": "全球科技产业",
@@ -341,7 +287,7 @@
       "source_title": "Giving AI a “crystal clear” view of the materials world",
       "published_at": "2026-10-18",
       "source_url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
-      "generated_at": "2026-10-25T23:37:14+00:00",
+      "generated_at": "2026-10-26T23:41:16+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -384,10 +330,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 8
+      "age_days": 9
     },
     {
-      "id": "36f922f542a48040",
+      "id": "3c5ab921a4bec341",
       "record_id": "1ed9b044db2b667b",
       "title": "【译题待核】2026/10/15 TSMC Reports Third Quarter EPS of NT$29.43",
       "category": "全球科技产业",
@@ -395,7 +341,7 @@
       "source_title": "2026/10/15 TSMC Reports Third Quarter EPS of NT$29.43",
       "published_at": "2026-10-15",
       "source_url": "https://pr.tsmc.com/english/news/3346",
-      "generated_at": "2026-10-25T23:37:14+00:00",
+      "generated_at": "2026-10-26T23:41:16+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -438,10 +384,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 11
+      "age_days": 12
     },
     {
-      "id": "33577eadbbf41e48",
+      "id": "3acc755d888a6424",
       "record_id": "2e461f2ac6e5c44a",
       "title": "【译题待核】2026/10/08 TSMC September 2026 Revenue Report",
       "category": "全球科技产业",
@@ -449,7 +395,7 @@
       "source_title": "2026/10/08 TSMC September 2026 Revenue Report",
       "published_at": "2026-10-08",
       "source_url": "https://pr.tsmc.com/english/news/3343",
-      "generated_at": "2026-10-25T23:37:14+00:00",
+      "generated_at": "2026-10-26T23:41:16+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -492,7 +438,7 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 18
+      "age_days": 19
     }
   ],
   "notice": "每日自动刷新候选。无新信息时显示近21日资料，不标为今日新发；文案全部需要人工核实后才能发布。"
