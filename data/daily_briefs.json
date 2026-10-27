@@ -1,6 +1,6 @@
 {
-  "for_date": "2026-10-27",
-  "generated_at": "2026-10-26T23:41:16+00:00",
+  "for_date": "2026-10-28",
+  "generated_at": "2026-10-27T23:41:51+00:00",
   "selection_window_days": 21,
   "new_today_count": 0,
   "source_count": 8,
@@ -9,7 +9,7 @@
   "llm_failed": 0,
   "topics": [
     {
-      "id": "8f5a91e6f5ed1ede",
+      "id": "79e87ec67ac5d98c",
       "record_id": "3860077791103589",
       "title": "ICSG发布2026年10月铜市场月度新闻稿",
       "category": "市场数据",
@@ -17,7 +17,7 @@
       "source_title": "ICSG October 2026 Monthly Press Release",
       "published_at": "2026-10-23",
       "source_url": "https://icsg.org/press-releases/",
-      "generated_at": "2026-10-26T23:41:16+00:00",
+      "generated_at": "2026-10-27T23:41:51+00:00",
       "mode": "人工核对摘要的模板初稿",
       "review_required": true,
       "ready_to_publish": false,
@@ -60,10 +60,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 4
+      "age_days": 5
     },
     {
-      "id": "72c9bc7204eac419",
+      "id": "a468a7cfbf5e885e",
       "record_id": "1b4d852e1e8a9b51",
       "title": "必和必拓发布2026年第三季度运营回顾",
       "category": "海外矿业",
@@ -71,7 +71,7 @@
       "source_title": "BHP Operational review for the quarter ended 30 September 2026",
       "published_at": "2026-10-20",
       "source_url": "https://www.bhp.com/news/media-centre/releases/2026/10/bhp-operational-review-for-the-quarter-ended-30-september-2026",
-      "generated_at": "2026-10-26T23:41:16+00:00",
+      "generated_at": "2026-10-27T23:41:51+00:00",
       "mode": "人工核对摘要的模板初稿",
       "review_required": true,
       "ready_to_publish": false,
@@ -114,10 +114,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 7
+      "age_days": 8
     },
     {
-      "id": "becff09419175725",
+      "id": "f535ff9a637c57f9",
       "record_id": "98d637b3b9669d74",
       "title": "AI数据中心越建越多，电网将面临什么挑战？",
       "category": "金属与科技",
@@ -125,7 +125,7 @@
       "source_title": "Powering Artificial Intelligence: Strategies for integrating data centres into electricity systems",
       "published_at": "2026-10-14",
       "source_url": "https://www.iea.org/reports/powering-artificial-intelligence",
-      "generated_at": "2026-10-26T23:41:16+00:00",
+      "generated_at": "2026-10-27T23:41:51+00:00",
       "mode": "人工核对来源的示范初稿（发布前仍需审核）",
       "review_required": true,
       "ready_to_publish": false,
@@ -168,10 +168,10 @@
         }
       ],
       "editor_note": "已按来源整理成中文初稿；请在发布前再次检查事件数据、来源链接和配图授权。",
-      "age_days": 13
+      "age_days": 14
     },
     {
-      "id": "04d46b829168052f",
+      "id": "651461501ea06c58",
       "record_id": "d4f9b8ad40ea1575",
       "title": "ICSG发布2026—2027年铜市场预测",
       "category": "市场数据",
@@ -179,7 +179,7 @@
       "source_title": "ICSG Copper Market Forecast 2026–2027",
       "published_at": "2026-10-14",
       "source_url": "https://icsg.org/download/2026-10-14-press-release-icsg-copper-market-forecast-2026-2027/",
-      "generated_at": "2026-10-26T23:41:16+00:00",
+      "generated_at": "2026-10-27T23:41:51+00:00",
       "mode": "人工核对摘要的模板初稿",
       "review_required": true,
       "ready_to_publish": false,
@@ -222,10 +222,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 13
+      "age_days": 14
     },
     {
-      "id": "f5bec77947c461fb",
+      "id": "eda4174a4c6b0804",
       "record_id": "18f2a1a71eff5eca",
       "title": "美国与日本合作布局芯片新工厂，发生了什么？",
       "category": "全球科技产业",
@@ -233,7 +233,7 @@
       "source_title": "SIA Applauds GlobalFoundries Expansion Under U.S.-Japan Initiative",
       "published_at": "2026-10-14",
       "source_url": "https://www.semiconductors.org/sia-applauds-globalfoundries-expansion-under-u-s-japan-initiative/",
-      "generated_at": "2026-10-26T23:41:16+00:00",
+      "generated_at": "2026-10-27T23:41:51+00:00",
       "mode": "人工核对来源的示范初稿（发布前仍需审核）",
       "review_required": true,
       "ready_to_publish": false,
@@ -276,10 +276,10 @@
         }
       ],
       "editor_note": "已按来源整理成中文初稿；请在发布前再次检查事件数据、来源链接和配图授权。",
-      "age_days": 13
+      "age_days": 14
     },
     {
-      "id": "9da8c7c2e1647b1d",
+      "id": "82148bef1a9077a7",
       "record_id": "9692486eeb77934b",
       "title": "【译题待核】Giving AI a “crystal clear” view of the materials world",
       "category": "全球科技产业",
@@ -287,7 +287,7 @@
       "source_title": "Giving AI a “crystal clear” view of the materials world",
       "published_at": "2026-10-18",
       "source_url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
-      "generated_at": "2026-10-26T23:41:16+00:00",
+      "generated_at": "2026-10-27T23:41:51+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -330,10 +330,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 9
+      "age_days": 10
     },
     {
-      "id": "3c5ab921a4bec341",
+      "id": "1c0d03eab421f239",
       "record_id": "1ed9b044db2b667b",
       "title": "【译题待核】2026/10/15 TSMC Reports Third Quarter EPS of NT$29.43",
       "category": "全球科技产业",
@@ -341,7 +341,7 @@
       "source_title": "2026/10/15 TSMC Reports Third Quarter EPS of NT$29.43",
       "published_at": "2026-10-15",
       "source_url": "https://pr.tsmc.com/english/news/3346",
-      "generated_at": "2026-10-26T23:41:16+00:00",
+      "generated_at": "2026-10-27T23:41:51+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -384,10 +384,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 12
+      "age_days": 13
     },
     {
-      "id": "3acc755d888a6424",
+      "id": "7260b8042d35bcfc",
       "record_id": "2e461f2ac6e5c44a",
       "title": "【译题待核】2026/10/08 TSMC September 2026 Revenue Report",
       "category": "全球科技产业",
@@ -395,7 +395,7 @@
       "source_title": "2026/10/08 TSMC September 2026 Revenue Report",
       "published_at": "2026-10-08",
       "source_url": "https://pr.tsmc.com/english/news/3343",
-      "generated_at": "2026-10-26T23:41:16+00:00",
+      "generated_at": "2026-10-27T23:41:51+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -438,7 +438,7 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 19
+      "age_days": 20
     }
   ],
   "notice": "每日自动刷新候选。无新信息时显示近21日资料，不标为今日新发；文案全部需要人工核实后才能发布。"
