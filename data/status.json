@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-10-29T23:46:51+00:00",
+  "attempted_at": "2026-10-30T23:45:54+00:00",
   "timezone": "Asia/Singapore",
-  "new_records": 0,
-  "record_count": 113,
+  "new_records": 2,
+  "record_count": 115,
   "sources": [
     {
       "name": "国际能源署（IEA）报告",
@@ -50,7 +50,7 @@
       "name": "MIT News · 人工智能研究",
       "source": "MIT News",
       "state": "success",
-      "count": 25,
+      "count": 26,
       "message": "成功获取公开标题和来源链接"
     },
     {
@@ -79,7 +79,7 @@
       "source": "SIA",
       "state": "failed",
       "count": 0,
-      "message": "403 Client Error: Forbidden for url: https://www.semiconductors.org/news-events/latest-news/"
+      "message": "页面未识别出符合主题的条目（可能已改版）"
     },
     {
       "name": "ASML 半导体设备公告",
@@ -91,9 +91,9 @@
     {
       "name": "台积电产业公告（TSMC）",
       "source": "TSMC",
-      "state": "success",
-      "count": 9,
-      "message": "成功获取公开标题和来源链接"
+      "state": "failed",
+      "count": 0,
+      "message": "403 Client Error: Forbidden for url: https://pr.tsmc.com/english/latest-news"
     },
     {
       "name": "MINING.COM行业媒体",
