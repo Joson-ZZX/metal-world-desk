@@ -2,58 +2,10 @@
   "frequency": "月度",
   "source_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
   "source_name": "世界银行 Pink Sheet",
-  "retrieved_at": "2026-11-02T23:46:24+00:00",
-  "last_period": "2026-09",
+  "retrieved_at": "2026-11-03T23:47:53+00:00",
+  "last_period": "2026-10",
   "not_realtime": true,
   "series": [
-    {
-      "metal": "铜",
-      "month": "2025-04",
-      "value": 9177.0,
-      "unit": "($/mt)",
-      "source": "World Bank Pink Sheet",
-      "source_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx"
-    },
-    {
-      "metal": "铝",
-      "month": "2025-04",
-      "value": 2372.0,
-      "unit": "($/mt)",
-      "source": "World Bank Pink Sheet",
-      "source_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx"
-    },
-    {
-      "metal": "镍",
-      "month": "2025-04",
-      "value": 15113.0,
-      "unit": "($/mt)",
-      "source": "World Bank Pink Sheet",
-      "source_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx"
-    },
-    {
-      "metal": "锌",
-      "month": "2025-04",
-      "value": 2622.0,
-      "unit": "($/mt)",
-      "source": "World Bank Pink Sheet",
-      "source_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx"
-    },
-    {
-      "metal": "锡",
-      "month": "2025-04",
-      "value": 32565.0,
-      "unit": "($/mt)",
-      "source": "World Bank Pink Sheet",
-      "source_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx"
-    },
-    {
-      "metal": "铅",
-      "month": "2025-04",
-      "value": 1903.0,
-      "unit": "($/mt)",
-      "source": "World Bank Pink Sheet",
-      "source_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx"
-    },
     {
       "metal": "铜",
       "month": "2025-05",
@@ -866,6 +818,54 @@
       "metal": "铅",
       "month": "2026-09",
       "value": 1873.0,
+      "unit": "($/mt)",
+      "source": "World Bank Pink Sheet",
+      "source_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx"
+    },
+    {
+      "metal": "铜",
+      "month": "2026-10",
+      "value": 14508.0,
+      "unit": "($/mt)",
+      "source": "World Bank Pink Sheet",
+      "source_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx"
+    },
+    {
+      "metal": "铝",
+      "month": "2026-10",
+      "value": 3061.0,
+      "unit": "($/mt)",
+      "source": "World Bank Pink Sheet",
+      "source_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx"
+    },
+    {
+      "metal": "镍",
+      "month": "2026-10",
+      "value": 15436.0,
+      "unit": "($/mt)",
+      "source": "World Bank Pink Sheet",
+      "source_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx"
+    },
+    {
+      "metal": "锌",
+      "month": "2026-10",
+      "value": 3818.0,
+      "unit": "($/mt)",
+      "source": "World Bank Pink Sheet",
+      "source_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx"
+    },
+    {
+      "metal": "锡",
+      "month": "2026-10",
+      "value": 51696.0,
+      "unit": "($/mt)",
+      "source": "World Bank Pink Sheet",
+      "source_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx"
+    },
+    {
+      "metal": "铅",
+      "month": "2026-10",
+      "value": 1860.0,
       "unit": "($/mt)",
       "source": "World Bank Pink Sheet",
       "source_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx"
