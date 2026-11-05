@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-04T23:51:28+00:00",
+  "attempted_at": "2026-11-05T23:52:18+00:00",
   "timezone": "Asia/Singapore",
   "new_records": 1,
-  "record_count": 117,
+  "record_count": 118,
   "sources": [
     {
       "name": "国际能源署（IEA）报告",
@@ -50,7 +50,7 @@
       "name": "MIT News · 人工智能研究",
       "source": "MIT News",
       "state": "success",
-      "count": 25,
+      "count": 26,
       "message": "成功获取公开标题和来源链接"
     },
     {
@@ -91,9 +91,9 @@
     {
       "name": "台积电产业公告（TSMC）",
       "source": "TSMC",
-      "state": "failed",
-      "count": 0,
-      "message": "403 Client Error: Forbidden for url: https://pr.tsmc.com/english/latest-news"
+      "state": "success",
+      "count": 9,
+      "message": "成功获取公开标题和来源链接"
     },
     {
       "name": "MINING.COM行业媒体",
