@@ -1,6 +1,6 @@
 {
-  "for_date": "2026-11-06",
-  "generated_at": "2026-11-05T23:52:18+00:00",
+  "for_date": "2026-11-07",
+  "generated_at": "2026-11-07T02:48:13+00:00",
   "selection_window_days": 21,
   "new_today_count": 0,
   "source_count": 5,
@@ -9,7 +9,7 @@
   "llm_failed": 0,
   "topics": [
     {
-      "id": "cc78304499240352",
+      "id": "21fee80f301650b7",
       "record_id": "3860077791103589",
       "title": "ICSG发布2026年10月铜市场月度新闻稿",
       "category": "市场数据",
@@ -17,7 +17,7 @@
       "source_title": "ICSG October 2026 Monthly Press Release",
       "published_at": "2026-10-23",
       "source_url": "https://icsg.org/press-releases/",
-      "generated_at": "2026-11-05T23:52:18+00:00",
+      "generated_at": "2026-11-07T02:48:13+00:00",
       "mode": "人工核对摘要的模板初稿",
       "review_required": true,
       "ready_to_publish": false,
@@ -60,10 +60,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 14
+      "age_days": 15
     },
     {
-      "id": "aba0ba02038b0b54",
+      "id": "8b53693c7a7729c6",
       "record_id": "1b4d852e1e8a9b51",
       "title": "必和必拓发布2026年第三季度运营回顾",
       "category": "海外矿业",
@@ -71,7 +71,7 @@
       "source_title": "BHP Operational review for the quarter ended 30 September 2026",
       "published_at": "2026-10-20",
       "source_url": "https://www.bhp.com/news/media-centre/releases/2026/10/bhp-operational-review-for-the-quarter-ended-30-september-2026",
-      "generated_at": "2026-11-05T23:52:18+00:00",
+      "generated_at": "2026-11-07T02:48:13+00:00",
       "mode": "人工核对摘要的模板初稿",
       "review_required": true,
       "ready_to_publish": false,
@@ -114,10 +114,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 17
+      "age_days": 18
     },
     {
-      "id": "c41520e908c99757",
+      "id": "5e4421afc86ec8d9",
       "record_id": "87631feae5b67cf1",
       "title": "【译题待核】Clearing up a robot’s fuzzy memory",
       "category": "全球科技产业",
@@ -125,7 +125,7 @@
       "source_title": "Clearing up a robot’s fuzzy memory",
       "published_at": "2026-11-05",
       "source_url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
-      "generated_at": "2026-11-05T23:52:18+00:00",
+      "generated_at": "2026-11-07T02:48:13+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -168,10 +168,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 1
+      "age_days": 2
     },
     {
-      "id": "4eb21cdf3bb96866",
+      "id": "327b55b19d77af93",
       "record_id": "a912ef7f01eb3757",
       "title": "【译题待核】A soft robot could help doctors diagnose and treat disorders of the sm…",
       "category": "全球科技产业",
@@ -179,7 +179,7 @@
       "source_title": "A soft robot could help doctors diagnose and treat disorders of the small intestine",
       "published_at": "2026-10-28",
       "source_url": "https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028",
-      "generated_at": "2026-11-05T23:52:18+00:00",
+      "generated_at": "2026-11-07T02:48:13+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -222,10 +222,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 9
+      "age_days": 10
     },
     {
-      "id": "5292e06b32e9a6be",
+      "id": "b38d3dc95087909c",
       "record_id": "9692486eeb77934b",
       "title": "【译题待核】Giving AI a “crystal clear” view of the materials world",
       "category": "全球科技产业",
@@ -233,7 +233,7 @@
       "source_title": "Giving AI a “crystal clear” view of the materials world",
       "published_at": "2026-10-18",
       "source_url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
-      "generated_at": "2026-11-05T23:52:18+00:00",
+      "generated_at": "2026-11-07T02:48:13+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -276,7 +276,7 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 19
+      "age_days": 20
     }
   ],
   "notice": "每日自动刷新候选。无新信息时显示近21日资料，不标为今日新发；文案全部需要人工核实后才能发布。"
