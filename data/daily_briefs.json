@@ -1,15 +1,15 @@
 {
-  "for_date": "2026-11-08",
-  "generated_at": "2026-11-08T02:30:11+00:00",
+  "for_date": "2026-11-09",
+  "generated_at": "2026-11-09T02:39:48+00:00",
   "selection_window_days": 21,
   "new_today_count": 0,
-  "source_count": 5,
+  "source_count": 4,
   "llm_enabled": false,
   "llm_success": 0,
   "llm_failed": 0,
   "topics": [
     {
-      "id": "c4a09fe83dce20ed",
+      "id": "2689665f1ff5cc4a",
       "record_id": "3860077791103589",
       "title": "ICSG发布2026年10月铜市场月度新闻稿",
       "category": "市场数据",
@@ -17,7 +17,7 @@
       "source_title": "ICSG October 2026 Monthly Press Release",
       "published_at": "2026-10-23",
       "source_url": "https://icsg.org/press-releases/",
-      "generated_at": "2026-11-08T02:30:11+00:00",
+      "generated_at": "2026-11-09T02:39:48+00:00",
       "mode": "人工核对摘要的模板初稿",
       "review_required": true,
       "ready_to_publish": false,
@@ -60,10 +60,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 16
+      "age_days": 17
     },
     {
-      "id": "f272b7c0035e26a2",
+      "id": "a646442cd8f98414",
       "record_id": "1b4d852e1e8a9b51",
       "title": "必和必拓发布2026年第三季度运营回顾",
       "category": "海外矿业",
@@ -71,7 +71,7 @@
       "source_title": "BHP Operational review for the quarter ended 30 September 2026",
       "published_at": "2026-10-20",
       "source_url": "https://www.bhp.com/news/media-centre/releases/2026/10/bhp-operational-review-for-the-quarter-ended-30-september-2026",
-      "generated_at": "2026-11-08T02:30:11+00:00",
+      "generated_at": "2026-11-09T02:39:48+00:00",
       "mode": "人工核对摘要的模板初稿",
       "review_required": true,
       "ready_to_publish": false,
@@ -114,10 +114,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 19
+      "age_days": 20
     },
     {
-      "id": "6090f7a20e9ee3ea",
+      "id": "255211d5e7b116fb",
       "record_id": "87631feae5b67cf1",
       "title": "【译题待核】Clearing up a robot’s fuzzy memory",
       "category": "全球科技产业",
@@ -125,7 +125,7 @@
       "source_title": "Clearing up a robot’s fuzzy memory",
       "published_at": "2026-11-05",
       "source_url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
-      "generated_at": "2026-11-08T02:30:11+00:00",
+      "generated_at": "2026-11-09T02:39:48+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -168,10 +168,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 3
+      "age_days": 4
     },
     {
-      "id": "a2707199fb2dc3cd",
+      "id": "fc36e34fee554277",
       "record_id": "a912ef7f01eb3757",
       "title": "【译题待核】A soft robot could help doctors diagnose and treat disorders of the sm…",
       "category": "全球科技产业",
@@ -179,7 +179,7 @@
       "source_title": "A soft robot could help doctors diagnose and treat disorders of the small intestine",
       "published_at": "2026-10-28",
       "source_url": "https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028",
-      "generated_at": "2026-11-08T02:30:11+00:00",
+      "generated_at": "2026-11-09T02:39:48+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -222,61 +222,7 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 11
-    },
-    {
-      "id": "922124d23a571440",
-      "record_id": "9692486eeb77934b",
-      "title": "【译题待核】Giving AI a “crystal clear” view of the materials world",
-      "category": "全球科技产业",
-      "source": "MIT News",
-      "source_title": "Giving AI a “crystal clear” view of the materials world",
-      "published_at": "2026-10-18",
-      "source_url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
-      "generated_at": "2026-11-08T02:30:11+00:00",
-      "mode": "英文原文线索／待事实复核",
-      "review_required": true,
-      "ready_to_publish": false,
-      "source_reviewed": false,
-      "pages": [
-        {
-          "page": 1,
-          "title": "【译题待核】Giving AI a “crystal clear” view of the materials world",
-          "text": "全球科技产业最新动态｜MIT News · 2026-10-18",
-          "visual": "封面：主题主体图片＋短标题（素材须有使用授权）",
-          "source_url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018"
-        },
-        {
-          "page": 2,
-          "title": "这次发布了什么？",
-          "text": "MIT News于2026-10-18发布有关“【译题待核】Giving AI a “crystal clear” view of the …”的信息。 目前仅取得原始标题，尚不能断言具体内容。",
-          "visual": "机构名称＋事件时间轴；不得把报告发布当成事件发生时间",
-          "source_url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018"
-        },
-        {
-          "page": 3,
-          "title": "原始信息与证据",
-          "text": "英文原文摘录（待译核）：New research can help AI models understand crystalline materials in 3D and reason about their properties.",
-          "visual": "将原文中的重要数据画成对比图；无可靠数字则改用事实关系图",
-          "source_url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018"
-        },
-        {
-          "page": 4,
-          "title": "它与哪些产业有关？",
-          "text": "可从科技产业的技术发展、产业链变化或资源需求三个角度解释此事。此页属于编辑分析，发布前须用原文及第二资料源支持判断。",
-          "visual": "建议绘制产业链关系图或变化路径图，不虚构量化关系",
-          "source_url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018"
-        },
-        {
-          "page": 5,
-          "title": "可以得出什么结论？",
-          "text": "已知事实以MIT News原始信息为准。建议区分“已发生事项”“机构预测”和“创作者判断”，最后用一个具体问题引导讨论。",
-          "visual": "结论大字卡＋原文链接/发布日期/统计口径",
-          "source_url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018"
-        }
-      ],
-      "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 21
+      "age_days": 12
     }
   ],
   "notice": "每日自动刷新候选。无新信息时显示近21日资料，不标为今日新发；文案全部需要人工核实后才能发布。"
