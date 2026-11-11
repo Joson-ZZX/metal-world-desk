@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-10T04:38:11+00:00",
+  "attempted_at": "2026-11-11T02:47:56+00:00",
   "timezone": "Asia/Singapore",
-  "new_records": 2,
-  "record_count": 120,
+  "new_records": 1,
+  "record_count": 121,
   "sources": [
     {
       "name": "国际能源署（IEA）报告",
@@ -50,7 +50,7 @@
       "name": "MIT News · 人工智能研究",
       "source": "MIT News",
       "state": "success",
-      "count": 27,
+      "count": 28,
       "message": "成功获取公开标题和来源链接"
     },
     {
@@ -64,7 +64,7 @@
       "name": "MIT News · 新材料与工程",
       "source": "MIT News",
       "state": "success",
-      "count": 15,
+      "count": 14,
       "message": "成功获取公开标题和来源链接"
     },
     {
