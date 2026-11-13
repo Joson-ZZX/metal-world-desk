@@ -1,6 +1,6 @@
 {
-  "for_date": "2026-11-12",
-  "generated_at": "2026-11-12T03:49:12+00:00",
+  "for_date": "2026-11-13",
+  "generated_at": "2026-11-13T03:25:39+00:00",
   "selection_window_days": 21,
   "new_today_count": 0,
   "source_count": 4,
@@ -9,7 +9,7 @@
   "llm_failed": 0,
   "topics": [
     {
-      "id": "a473704c419210f8",
+      "id": "3eec01c6c74355c9",
       "record_id": "3860077791103589",
       "title": "ICSG发布2026年10月铜市场月度新闻稿",
       "category": "市场数据",
@@ -17,7 +17,7 @@
       "source_title": "ICSG October 2026 Monthly Press Release",
       "published_at": "2026-10-23",
       "source_url": "https://icsg.org/press-releases/",
-      "generated_at": "2026-11-12T03:49:12+00:00",
+      "generated_at": "2026-11-13T03:25:39+00:00",
       "mode": "人工核对摘要的模板初稿",
       "review_required": true,
       "ready_to_publish": false,
@@ -60,10 +60,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 20
+      "age_days": 21
     },
     {
-      "id": "c34fbac075257520",
+      "id": "2a198d10c3e6eaf6",
       "record_id": "f2b130fea883df69",
       "title": "【译题待核】AI-assisted learning platform helps robots reason beyond literal comma…",
       "category": "全球科技产业",
@@ -71,7 +71,7 @@
       "source_title": "AI-assisted learning platform helps robots reason beyond literal commands",
       "published_at": "2026-11-09",
       "source_url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
-      "generated_at": "2026-11-12T03:49:12+00:00",
+      "generated_at": "2026-11-13T03:25:39+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -114,10 +114,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 3
+      "age_days": 4
     },
     {
-      "id": "5950d42c1c1bc6db",
+      "id": "ec3b11f802cb5206",
       "record_id": "87631feae5b67cf1",
       "title": "【译题待核】Clearing up a robot’s fuzzy memory",
       "category": "全球科技产业",
@@ -125,7 +125,7 @@
       "source_title": "Clearing up a robot’s fuzzy memory",
       "published_at": "2026-11-05",
       "source_url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
-      "generated_at": "2026-11-12T03:49:12+00:00",
+      "generated_at": "2026-11-13T03:25:39+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -168,10 +168,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 7
+      "age_days": 8
     },
     {
-      "id": "1898235b0b61e227",
+      "id": "a34655f7ab8a034a",
       "record_id": "a912ef7f01eb3757",
       "title": "【译题待核】A soft robot could help doctors diagnose and treat disorders of the sm…",
       "category": "全球科技产业",
@@ -179,7 +179,7 @@
       "source_title": "A soft robot could help doctors diagnose and treat disorders of the small intestine",
       "published_at": "2026-10-28",
       "source_url": "https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028",
-      "generated_at": "2026-11-12T03:49:12+00:00",
+      "generated_at": "2026-11-13T03:25:39+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -222,7 +222,7 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 15
+      "age_days": 16
     }
   ],
   "notice": "每日自动刷新候选。无新信息时显示近21日资料，不标为今日新发；文案全部需要人工核实后才能发布。"
