@@ -1,6 +1,6 @@
 {
-  "for_date": "2026-11-13",
-  "generated_at": "2026-11-13T03:25:39+00:00",
+  "for_date": "2026-11-14",
+  "generated_at": "2026-11-14T03:15:45+00:00",
   "selection_window_days": 21,
   "new_today_count": 0,
   "source_count": 4,
@@ -9,61 +9,61 @@
   "llm_failed": 0,
   "topics": [
     {
-      "id": "3eec01c6c74355c9",
-      "record_id": "3860077791103589",
-      "title": "ICSG发布2026年10月铜市场月度新闻稿",
-      "category": "市场数据",
-      "source": "ICSG",
-      "source_title": "ICSG October 2026 Monthly Press Release",
-      "published_at": "2026-10-23",
-      "source_url": "https://icsg.org/press-releases/",
-      "generated_at": "2026-11-13T03:25:39+00:00",
-      "mode": "人工核对摘要的模板初稿",
+      "id": "da7ee33708e53256",
+      "record_id": "e07fedf840f05ba0",
+      "title": "【译题待核】Helping robots fit into the human workplace",
+      "category": "全球科技产业",
+      "source": "MIT News",
+      "source_title": "Helping robots fit into the human workplace",
+      "published_at": "2026-11-13",
+      "source_url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
+      "generated_at": "2026-11-14T03:15:45+00:00",
+      "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
-      "source_reviewed": true,
+      "source_reviewed": false,
       "pages": [
         {
           "page": 1,
-          "title": "ICSG发布2026年10月铜市场月度新闻稿",
-          "text": "全球矿产与金属产业最新动态｜ICSG · 2026-10-23",
+          "title": "【译题待核】Helping robots fit into the human workplace",
+          "text": "全球科技产业最新动态｜MIT News · 2026-11-13",
           "visual": "封面：主题主体图片＋短标题（素材须有使用授权）",
-          "source_url": "https://icsg.org/press-releases/"
+          "source_url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113"
         },
         {
           "page": 2,
           "title": "这次发布了什么？",
-          "text": "ICSG于2026-10-23发布有关“ICSG发布2026年10月铜市场月度新闻稿”的信息。 国际铜研究组官网列示了2026年10月23日的月度新闻稿。具体统计数值应以附件原文为准。",
+          "text": "MIT News于2026-11-13发布有关“【译题待核】Helping robots fit into the human workpl…”的信息。 目前仅取得原始标题，尚不能断言具体内容。",
           "visual": "机构名称＋事件时间轴；不得把报告发布当成事件发生时间",
-          "source_url": "https://icsg.org/press-releases/"
+          "source_url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113"
         },
         {
           "page": 3,
           "title": "原始信息与证据",
-          "text": "国际铜研究组官网列示了2026年10月23日的月度新闻稿。具体统计数值应以附件原文为准。",
+          "text": "英文原文摘录（待译核）：Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses.",
           "visual": "将原文中的重要数据画成对比图；无可靠数字则改用事实关系图",
-          "source_url": "https://icsg.org/press-releases/"
+          "source_url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113"
         },
         {
           "page": 4,
           "title": "它与哪些产业有关？",
-          "text": "可从矿产与金属产业的技术发展、产业链变化或资源需求三个角度解释此事。此页属于编辑分析，发布前须用原文及第二资料源支持判断。",
+          "text": "可从科技产业的技术发展、产业链变化或资源需求三个角度解释此事。此页属于编辑分析，发布前须用原文及第二资料源支持判断。",
           "visual": "建议绘制产业链关系图或变化路径图，不虚构量化关系",
-          "source_url": "https://icsg.org/press-releases/"
+          "source_url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113"
         },
         {
           "page": 5,
           "title": "可以得出什么结论？",
-          "text": "已知事实以ICSG原始信息为准。建议区分“已发生事项”“机构预测”和“创作者判断”，最后用一个具体问题引导讨论。",
+          "text": "已知事实以MIT News原始信息为准。建议区分“已发生事项”“机构预测”和“创作者判断”，最后用一个具体问题引导讨论。",
           "visual": "结论大字卡＋原文链接/发布日期/统计口径",
-          "source_url": "https://icsg.org/press-releases/"
+          "source_url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113"
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 21
+      "age_days": 1
     },
     {
-      "id": "2a198d10c3e6eaf6",
+      "id": "3aa18c63e22f22e5",
       "record_id": "f2b130fea883df69",
       "title": "【译题待核】AI-assisted learning platform helps robots reason beyond literal comma…",
       "category": "全球科技产业",
@@ -71,7 +71,7 @@
       "source_title": "AI-assisted learning platform helps robots reason beyond literal commands",
       "published_at": "2026-11-09",
       "source_url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
-      "generated_at": "2026-11-13T03:25:39+00:00",
+      "generated_at": "2026-11-14T03:15:45+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -114,10 +114,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 4
+      "age_days": 5
     },
     {
-      "id": "ec3b11f802cb5206",
+      "id": "4a44df7087d24e78",
       "record_id": "87631feae5b67cf1",
       "title": "【译题待核】Clearing up a robot’s fuzzy memory",
       "category": "全球科技产业",
@@ -125,7 +125,7 @@
       "source_title": "Clearing up a robot’s fuzzy memory",
       "published_at": "2026-11-05",
       "source_url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
-      "generated_at": "2026-11-13T03:25:39+00:00",
+      "generated_at": "2026-11-14T03:15:45+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -168,10 +168,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 8
+      "age_days": 9
     },
     {
-      "id": "a34655f7ab8a034a",
+      "id": "5b02cde2ec45d290",
       "record_id": "a912ef7f01eb3757",
       "title": "【译题待核】A soft robot could help doctors diagnose and treat disorders of the sm…",
       "category": "全球科技产业",
@@ -179,7 +179,7 @@
       "source_title": "A soft robot could help doctors diagnose and treat disorders of the small intestine",
       "published_at": "2026-10-28",
       "source_url": "https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028",
-      "generated_at": "2026-11-13T03:25:39+00:00",
+      "generated_at": "2026-11-14T03:15:45+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -222,7 +222,7 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 16
+      "age_days": 17
     }
   ],
   "notice": "每日自动刷新候选。无新信息时显示近21日资料，不标为今日新发；文案全部需要人工核实后才能发布。"
