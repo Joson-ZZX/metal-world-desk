@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-14T03:15:45+00:00",
+  "attempted_at": "2026-11-15T02:39:59+00:00",
   "timezone": "Asia/Singapore",
-  "new_records": 2,
-  "record_count": 124,
+  "new_records": 10,
+  "record_count": 134,
   "sources": [
     {
       "name": "国际能源署（IEA）报告",
@@ -84,9 +84,9 @@
     {
       "name": "ASML 半导体设备公告",
       "source": "ASML",
-      "state": "failed",
-      "count": 0,
-      "message": "403 Client Error: Forbidden for url: https://investor.asml.com/news/press-releases"
+      "state": "success",
+      "count": 10,
+      "message": "成功获取公开标题和来源链接"
     },
     {
       "name": "台积电产业公告（TSMC）",
