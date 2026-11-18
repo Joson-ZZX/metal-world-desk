@@ -1,6 +1,6 @@
 {
-  "for_date": "2026-11-17",
-  "generated_at": "2026-11-17T05:05:43+00:00",
+  "for_date": "2026-11-18",
+  "generated_at": "2026-11-18T04:21:47+00:00",
   "selection_window_days": 21,
   "new_today_count": 0,
   "source_count": 6,
@@ -9,7 +9,7 @@
   "llm_failed": 0,
   "topics": [
     {
-      "id": "64398094d1ca343a",
+      "id": "c060900c6ccf5e9e",
       "record_id": "e07fedf840f05ba0",
       "title": "【译题待核】Helping robots fit into the human workplace",
       "category": "全球科技产业",
@@ -17,7 +17,7 @@
       "source_title": "Helping robots fit into the human workplace",
       "published_at": "2026-11-13",
       "source_url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
-      "generated_at": "2026-11-17T05:05:43+00:00",
+      "generated_at": "2026-11-18T04:21:47+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -60,10 +60,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 4
+      "age_days": 5
     },
     {
-      "id": "cb9579eaff74a598",
+      "id": "591107c46d918448",
       "record_id": "f2b130fea883df69",
       "title": "【译题待核】AI-assisted learning platform helps robots reason beyond literal comma…",
       "category": "全球科技产业",
@@ -71,7 +71,7 @@
       "source_title": "AI-assisted learning platform helps robots reason beyond literal commands",
       "published_at": "2026-11-09",
       "source_url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
-      "generated_at": "2026-11-17T05:05:43+00:00",
+      "generated_at": "2026-11-18T04:21:47+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -114,10 +114,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 8
+      "age_days": 9
     },
     {
-      "id": "0a61d24389627ec1",
+      "id": "9fae6d1bd2369a1e",
       "record_id": "87631feae5b67cf1",
       "title": "【译题待核】Clearing up a robot’s fuzzy memory",
       "category": "全球科技产业",
@@ -125,7 +125,7 @@
       "source_title": "Clearing up a robot’s fuzzy memory",
       "published_at": "2026-11-05",
       "source_url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
-      "generated_at": "2026-11-17T05:05:43+00:00",
+      "generated_at": "2026-11-18T04:21:47+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -168,10 +168,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 12
+      "age_days": 13
     },
     {
-      "id": "45893b5d0a4cd3ba",
+      "id": "fdb1f14c9c952097",
       "record_id": "a912ef7f01eb3757",
       "title": "【译题待核】A soft robot could help doctors diagnose and treat disorders of the sm…",
       "category": "全球科技产业",
@@ -179,7 +179,7 @@
       "source_title": "A soft robot could help doctors diagnose and treat disorders of the small intestine",
       "published_at": "2026-10-28",
       "source_url": "https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028",
-      "generated_at": "2026-11-17T05:05:43+00:00",
+      "generated_at": "2026-11-18T04:21:47+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -222,10 +222,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 20
+      "age_days": 21
     },
     {
-      "id": "f1b5e298d08feb21",
+      "id": "577876b1a6f6342e",
       "record_id": "8e1c2c63344be365",
       "title": "【译题待核】2026/11/10 TSMC Board of Directors Meeting Resolutions",
       "category": "全球科技产业",
@@ -233,7 +233,7 @@
       "source_title": "2026/11/10 TSMC Board of Directors Meeting Resolutions",
       "published_at": "2026-11-10",
       "source_url": "https://pr.tsmc.com/english/news/3352",
-      "generated_at": "2026-11-17T05:05:43+00:00",
+      "generated_at": "2026-11-18T04:21:47+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -276,10 +276,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 7
+      "age_days": 8
     },
     {
-      "id": "92ba5b7e002e3e0c",
+      "id": "b721225580399fda",
       "record_id": "42350136e5a983a8",
       "title": "【译题待核】2026/11/10 TSMC October 2026 Revenue Report",
       "category": "全球科技产业",
@@ -287,7 +287,7 @@
       "source_title": "2026/11/10 TSMC October 2026 Revenue Report",
       "published_at": "2026-11-10",
       "source_url": "https://pr.tsmc.com/english/news/3349",
-      "generated_at": "2026-11-17T05:05:43+00:00",
+      "generated_at": "2026-11-18T04:21:47+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -330,7 +330,7 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 7
+      "age_days": 8
     }
   ],
   "notice": "每日自动刷新候选。无新信息时显示近21日资料，不标为今日新发；文案全部需要人工核实后才能发布。"
