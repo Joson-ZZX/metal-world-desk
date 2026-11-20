@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-19T04:12:09+00:00",
+  "attempted_at": "2026-11-20T03:58:28+00:00",
   "timezone": "Asia/Singapore",
   "new_records": 2,
-  "record_count": 141,
+  "record_count": 143,
   "sources": [
     {
       "name": "国际能源署（IEA）报告",
@@ -50,7 +50,7 @@
       "name": "MIT News · 人工智能研究",
       "source": "MIT News",
       "state": "success",
-      "count": 31,
+      "count": 32,
       "message": "成功获取公开标题和来源链接"
     },
     {
