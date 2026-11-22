@@ -1,7 +1,7 @@
 {
-  "attempted_at": "2026-11-21T03:58:40+00:00",
+  "attempted_at": "2026-11-22T03:11:22+00:00",
   "timezone": "Asia/Singapore",
-  "new_records": 3,
+  "new_records": 0,
   "record_count": 146,
   "sources": [
     {
@@ -91,9 +91,9 @@
     {
       "name": "台积电产业公告（TSMC）",
       "source": "TSMC",
-      "state": "success",
-      "count": 10,
-      "message": "成功获取公开标题和来源链接"
+      "state": "failed",
+      "count": 0,
+      "message": "403 Client Error: Forbidden for url: https://pr.tsmc.com/english/latest-news"
     },
     {
       "name": "MINING.COM行业媒体",
