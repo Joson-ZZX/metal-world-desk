@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-23T03:43:44+00:00",
+  "attempted_at": "2026-11-24T06:58:26+00:00",
   "timezone": "Asia/Singapore",
-  "new_records": 0,
-  "record_count": 146,
+  "new_records": 2,
+  "record_count": 148,
   "sources": [
     {
       "name": "国际能源署（IEA）报告",
@@ -21,9 +21,9 @@
     {
       "name": "美国地调局（USGS）",
       "source": "USGS",
-      "state": "success",
-      "count": 6,
-      "message": "成功获取公开标题和来源链接"
+      "state": "failed",
+      "count": 0,
+      "message": "HTTPSConnectionPool(host='www.usgs.gov', port=443): Read timed out. (read timeout=22)"
     },
     {
       "name": "国际铜研究组（ICSG）",
@@ -50,7 +50,7 @@
       "name": "MIT News · 人工智能研究",
       "source": "MIT News",
       "state": "success",
-      "count": 33,
+      "count": 34,
       "message": "成功获取公开标题和来源链接"
     },
     {
@@ -84,9 +84,9 @@
     {
       "name": "ASML 半导体设备公告",
       "source": "ASML",
-      "state": "failed",
-      "count": 0,
-      "message": "403 Client Error: Forbidden for url: https://investor.asml.com/news/press-releases"
+      "state": "success",
+      "count": 10,
+      "message": "成功获取公开标题和来源链接"
     },
     {
       "name": "台积电产业公告（TSMC）",
