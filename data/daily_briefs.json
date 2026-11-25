@@ -1,15 +1,15 @@
 {
-  "for_date": "2026-11-24",
-  "generated_at": "2026-11-24T06:58:26+00:00",
+  "for_date": "2026-11-25",
+  "generated_at": "2026-11-25T05:26:11+00:00",
   "selection_window_days": 21,
   "new_today_count": 0,
-  "source_count": 7,
+  "source_count": 8,
   "llm_enabled": false,
   "llm_success": 0,
   "llm_failed": 0,
   "topics": [
     {
-      "id": "12326208b0bbf68a",
+      "id": "7fc7ccc76d6d4c75",
       "record_id": "e07fedf840f05ba0",
       "title": "【译题待核】Helping robots fit into the human workplace",
       "category": "全球科技产业",
@@ -17,7 +17,7 @@
       "source_title": "Helping robots fit into the human workplace",
       "published_at": "2026-11-13",
       "source_url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
-      "generated_at": "2026-11-24T06:58:26+00:00",
+      "generated_at": "2026-11-25T05:26:11+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -60,10 +60,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 11
+      "age_days": 12
     },
     {
-      "id": "edd0d1c32f454a60",
+      "id": "00e96d8210e4b5c7",
       "record_id": "f2b130fea883df69",
       "title": "【译题待核】AI-assisted learning platform helps robots reason beyond literal comma…",
       "category": "全球科技产业",
@@ -71,7 +71,7 @@
       "source_title": "AI-assisted learning platform helps robots reason beyond literal commands",
       "published_at": "2026-11-09",
       "source_url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
-      "generated_at": "2026-11-24T06:58:26+00:00",
+      "generated_at": "2026-11-25T05:26:11+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -114,10 +114,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 15
+      "age_days": 16
     },
     {
-      "id": "7fa73cc8fb4afac2",
+      "id": "d9c72825d7b794b5",
       "record_id": "87631feae5b67cf1",
       "title": "【译题待核】Clearing up a robot’s fuzzy memory",
       "category": "全球科技产业",
@@ -125,7 +125,7 @@
       "source_title": "Clearing up a robot’s fuzzy memory",
       "published_at": "2026-11-05",
       "source_url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
-      "generated_at": "2026-11-24T06:58:26+00:00",
+      "generated_at": "2026-11-25T05:26:11+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -168,10 +168,64 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 19
+      "age_days": 20
     },
     {
-      "id": "11e686947f2bec22",
+      "id": "8eb3d0e2f32df3d9",
+      "record_id": "3e200d1afac1b497",
+      "title": "【译题待核】What if excess renewable energy could power new industrial processes?",
+      "category": "全球科技产业",
+      "source": "MIT News",
+      "source_title": "What if excess renewable energy could power new industrial processes?",
+      "published_at": "2026-11-24",
+      "source_url": "https://news.mit.edu/2026/excess-renewable-energy-could-power-new-industrial-processes-1124",
+      "generated_at": "2026-11-25T05:26:11+00:00",
+      "mode": "英文原文线索／待事实复核",
+      "review_required": true,
+      "ready_to_publish": false,
+      "source_reviewed": false,
+      "pages": [
+        {
+          "page": 1,
+          "title": "【译题待核】What if excess renewable energy could power new industrial processes?",
+          "text": "全球科技产业最新动态｜MIT News · 2026-11-24",
+          "visual": "封面：主题主体图片＋短标题（素材须有使用授权）",
+          "source_url": "https://news.mit.edu/2026/excess-renewable-energy-could-power-new-industrial-processes-1124"
+        },
+        {
+          "page": 2,
+          "title": "这次发布了什么？",
+          "text": "MIT News于2026-11-24发布有关“【译题待核】What if excess renewable energy could po…”的信息。 目前仅取得原始标题，尚不能断言具体内容。",
+          "visual": "机构名称＋事件时间轴；不得把报告发布当成事件发生时间",
+          "source_url": "https://news.mit.edu/2026/excess-renewable-energy-could-power-new-industrial-processes-1124"
+        },
+        {
+          "page": 3,
+          "title": "原始信息与证据",
+          "text": "英文原文摘录（待译核）：Excess electricity from solar and wind generation could become widely available across the U.S. and then tapped to manufacture materials or run data centers, scientists say.",
+          "visual": "将原文中的重要数据画成对比图；无可靠数字则改用事实关系图",
+          "source_url": "https://news.mit.edu/2026/excess-renewable-energy-could-power-new-industrial-processes-1124"
+        },
+        {
+          "page": 4,
+          "title": "它与哪些产业有关？",
+          "text": "可从科技产业的技术发展、产业链变化或资源需求三个角度解释此事。此页属于编辑分析，发布前须用原文及第二资料源支持判断。",
+          "visual": "建议绘制产业链关系图或变化路径图，不虚构量化关系",
+          "source_url": "https://news.mit.edu/2026/excess-renewable-energy-could-power-new-industrial-processes-1124"
+        },
+        {
+          "page": 5,
+          "title": "可以得出什么结论？",
+          "text": "已知事实以MIT News原始信息为准。建议区分“已发生事项”“机构预测”和“创作者判断”，最后用一个具体问题引导讨论。",
+          "visual": "结论大字卡＋原文链接/发布日期/统计口径",
+          "source_url": "https://news.mit.edu/2026/excess-renewable-energy-could-power-new-industrial-processes-1124"
+        }
+      ],
+      "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
+      "age_days": 1
+    },
+    {
+      "id": "582ae2a25b036601",
       "record_id": "f4d5cc76792a20c6",
       "title": "【译题待核】This featherweight, flying robot carries its own sensors and computers",
       "category": "全球科技产业",
@@ -179,7 +233,7 @@
       "source_title": "This featherweight, flying robot carries its own sensors and computers",
       "published_at": "2026-11-18",
       "source_url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
-      "generated_at": "2026-11-24T06:58:26+00:00",
+      "generated_at": "2026-11-25T05:26:11+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -222,10 +276,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 6
+      "age_days": 7
     },
     {
-      "id": "9a9786b093b727b8",
+      "id": "1463f5e5f8a59ae2",
       "record_id": "2694e6420d78e5e9",
       "title": "【译题待核】2026/11/17 TSMC 2026 Supply Chain Management Forum Presents Awards to …",
       "category": "全球科技产业",
@@ -233,7 +287,7 @@
       "source_title": "2026/11/17 TSMC 2026 Supply Chain Management Forum Presents Awards to Outstanding Suppliers",
       "published_at": "2026-11-17",
       "source_url": "https://pr.tsmc.com/english/news/3355",
-      "generated_at": "2026-11-24T06:58:26+00:00",
+      "generated_at": "2026-11-25T05:26:11+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -276,10 +330,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 7
+      "age_days": 8
     },
     {
-      "id": "df931e0a04a8ff2f",
+      "id": "11d923e78c0b98f9",
       "record_id": "8e1c2c63344be365",
       "title": "【译题待核】2026/11/10 TSMC Board of Directors Meeting Resolutions",
       "category": "全球科技产业",
@@ -287,7 +341,7 @@
       "source_title": "2026/11/10 TSMC Board of Directors Meeting Resolutions",
       "published_at": "2026-11-10",
       "source_url": "https://pr.tsmc.com/english/news/3352",
-      "generated_at": "2026-11-24T06:58:26+00:00",
+      "generated_at": "2026-11-25T05:26:11+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -330,10 +384,10 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 14
+      "age_days": 15
     },
     {
-      "id": "6abbea0a1005142f",
+      "id": "2432355ef5d72421",
       "record_id": "42350136e5a983a8",
       "title": "【译题待核】2026/11/10 TSMC October 2026 Revenue Report",
       "category": "全球科技产业",
@@ -341,7 +395,7 @@
       "source_title": "2026/11/10 TSMC October 2026 Revenue Report",
       "published_at": "2026-11-10",
       "source_url": "https://pr.tsmc.com/english/news/3349",
-      "generated_at": "2026-11-24T06:58:26+00:00",
+      "generated_at": "2026-11-25T05:26:11+00:00",
       "mode": "英文原文线索／待事实复核",
       "review_required": true,
       "ready_to_publish": false,
@@ -384,7 +438,7 @@
         }
       ],
       "editor_note": "每页的事实、数字、时间和图片授权都需人工审核；未核对的行业影响不得作为既定结论。",
-      "age_days": 14
+      "age_days": 15
     }
   ],
   "notice": "每日自动刷新候选。无新信息时显示近21日资料，不标为今日新发；文案全部需要人工核实后才能发布。"
