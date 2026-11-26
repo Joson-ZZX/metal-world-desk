@@ -1,7 +1,7 @@
 {
-  "attempted_at": "2026-11-25T05:26:11+00:00",
+  "attempted_at": "2026-11-26T05:05:09+00:00",
   "timezone": "Asia/Singapore",
-  "new_records": 2,
+  "new_records": 0,
   "record_count": 150,
   "sources": [
     {
@@ -30,7 +30,7 @@
       "source": "ICSG",
       "state": "failed",
       "count": 0,
-      "message": "HTTPSConnectionPool(host='icsg.org', port=443): Read timed out. (read timeout=22)"
+      "message": "页面未识别出符合主题的条目（可能已改版）"
     },
     {
       "name": "必和必拓（BHP）",
